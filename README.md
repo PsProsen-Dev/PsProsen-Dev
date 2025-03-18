@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/103liSxCY1NpLO/giphy.gif?cid=790b7611sxvfw68gzih0875invp85uht2h3rmv8427zds7x5&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Iron Man HUD Activation" width="350"/>
 </p
-Subhendu Roy – Architect of Tomorrow  
+Ps Prosen – Architect of Tomorrow  
 **Founder @ We Digital Mitra | Cybernetic Innovator | Digital Frontier Explorer**
 
 ---
@@ -13,7 +13,7 @@ Subhendu Roy – Architect of Tomorrow
 </p>
 
 ## 🦿 Neural Interface: Who Am I?  
-Welcome to my grid! I’m **Subhendu Roy** – a self-evolved coder, AI trailblazer, and digital marketing visionary hailing from the neural hub of Panbari, Jalpaiguri, WB, India. I’m the mastermind behind **We Digital Mitra**, a quantum-powered digital ecosystem designed to dominate the online multiverse. Think of me as a cybernetic Tony Stark – fusing code, innovation, and strategy into a single unstoppable force!
+Welcome to my grid! I’m **Ps Prosen** – a self-evolved coder, AI trailblazer, and digital marketing visionary hailing from the neural hub of Panbari, Jalpaiguri, WB, India. I’m the mastermind behind **We Digital Mitra**, a quantum-powered digital ecosystem designed to dominate the online multiverse. Think of me as a cybernetic Tony Stark – fusing code, innovation, and strategy into a single unstoppable force!
 
 - 🌍 **Coordinates:** Panbari Bazar, Jalpaiguri, WB, India  
 - ⚡ **Core Protocols:** Full-Stack Engineering | AI/ML Augmentation | Digital Hypergrowth  
