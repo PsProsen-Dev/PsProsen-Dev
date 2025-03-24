@@ -232,7 +232,7 @@
     <img src="https://img.shields.io/badge/System-We%20Digital%20Mitra-FF5733?style=for-the-badge&logo=rocket&logoColor=white" />
   </div>
 
-  <img src="https://raw.githubusercontent.com/PsProsen-Dev/PsProsen-Dev/output/github-3d-contrib/3d-contrib.svg" alt="3D Contribution Chart" width="100%"/>
+
 </div>
 
 <div align="center">
