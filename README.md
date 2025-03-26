@@ -28,9 +28,9 @@
 ---
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/hV1dkT2u1gqTUpKdEM/giphy.gif" width="35px" height="35px">
+  <img src="https://media.giphy.com/media/hV1dkT2u1gqTUpKdEM/giphy.gif" width="35" height="35">
   <span style="color:#00FFFF"> NEURAL INTERFACE: SYSTEM OVERVIEW </span>
-  <img src="https://media.giphy.com/media/hV1dkT2u1gqTUpKdEM/giphy.gif" width="35px" height="35px">
+  <img src="https://media.giphy.com/media/hV1dkT2u1gqTUpKdEM/giphy.gif" width="35" height="35">
 </h2>
 
 <table align="center">
@@ -42,7 +42,7 @@
       <p>Think of me as a cybernetic Tony Stark – fusing code, innovation, and strategy into a single unstoppable force that's redefining digital frontiers!</p>
     </td>
     <td>
-      <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="300px"/>
+      <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="300"/>
     </td>
   </tr>
 </table>
@@ -50,9 +50,9 @@
 <!-- Holographic Key Metrics -->
 <div align="center">
   <h3>
-    <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25px" height="25px">
+    <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25" height="25">
     HOLOGRAPHIC METRICS
-    <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25px" height="25px">
+    <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25" height="25">
   </h3>
   
   <table>
@@ -69,10 +69,10 @@
 
 <!-- Technology Matrix - Holographic Display -->
 <div align="center">
-  <h2 align="center">
-    <img src="https://media.giphy.com/media/3o7qE6GmiAbRpT7Rra/giphy.gif" width="40px" height="40px">
+  <h2>
+    <img src="https://media.giphy.com/media/3o7qE6GmiAbRpT7Rra/giphy.gif" width="40" height="40">
     <span style="color:#00FFFF"> TECHNOLOGY MATRIX </span>
-    <img src="https://media.giphy.com/media/3o7qE6GmiAbRpT7Rra/giphy.gif" width="40px" height="40px">
+    <img src="https://media.giphy.com/media/3o7qE6GmiAbRpT7Rra/giphy.gif" width="40" height="40">
   </h2>
   <img src="https://skillicons.dev/icons?i=py,js,html,css,react,next,vue,nodejs,express,mongodb,postgres,git,docker,kubernetes,aws,gcp,azure,tensorflow,pytorch,figma&perline=10" alt="Tech Stack"/>
 </div>
@@ -131,9 +131,9 @@
 ---
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="40px" height="40px">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="40" height="40">
   <span style="color:#00FFFF"> ACTIVE SIMULATIONS </span>
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="40px" height="40px">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="40" height="40">
 </h2>
 
 <!-- Project Cards -->
@@ -144,7 +144,7 @@
         <h3 align="center">🌐 WE DIGITAL MITRA</h3>
         <div align="center">
           <a href="#" target="_blank">
-            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm5xZHNreGE0bGM4MW96bmI1MHRuZ2JleHNlYXdvY291MXFnZHEzOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="100%" alt="Project"/>
+            <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="100%" alt="Project"/>
           </a>
           <p><strong>A Cybernetic Digital Marketing Platform – Merging AI Analytics with Interstellar Outreach.</strong></p>
           <p>Advanced Algorithms + Neural Networks Powering Next-Gen Business Growth.</p>
@@ -154,7 +154,7 @@
         <h3 align="center">⚡ JARVIS (RTX⚡)</h3>
         <div align="center">
           <a href="#" target="_blank">
-            <img src="https://media.giphy.com/media/XEbAN657lIVMRwa1e2/giphy.gif?cid=790b7611ltm3rd117ewx6t66fmw9azvddbt2sasccsa6ylg8&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100%" alt="Project"/>
+            <img src="https://media.giphy.com/media/XEbAN657lIVMRwa1e2/giphy.gif" width="100%" alt="Project"/>
           </a>
           <p><strong>An AI Co-Pilot with Reasoning, Thinking, and Xtreme Execution Protocols!</strong></p>
           <p>Next-Gen Assistant with Advanced Language Understanding and Execution Capabilities.</p>
@@ -189,9 +189,9 @@
 ---
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/3oKIPtjEDVUQv1LT5C/giphy.gif" width="40px" height="40px">
+  <img src="https://media.giphy.com/media/3oKIPtjEDVUQv1LT5C/giphy.gif" width="40" height="40">
   <span style="color:#00FFFF"> QUANTUM SIGNATURES </span>
-  <img src="https://media.giphy.com/media/3oKIPtjEDVUQv1LT5C/giphy.gif" width="40px" height="40px">
+  <img src="https://media.giphy.com/media/3oKIPtjEDVUQv1LT5C/giphy.gif" width="40" height="40">
 </h2>
 
 <div align="center">
@@ -231,7 +231,6 @@
     <img src="https://img.shields.io/badge/Identity-He%2FHim-FF00FF?style=for-the-badge&logo=user&logoColor=black" />
     <img src="https://img.shields.io/badge/System-We%20Digital%20Mitra-FF5733?style=for-the-badge&logo=rocket&logoColor=white" />
   </div>
-
 
 </div>
 
