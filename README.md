@@ -246,7 +246,12 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PsProsen-Dev&layout=compact&theme=radical&border_color=00FFFF&title_color=FF00FF&text_color=FFFFFF&hide_border=false&bg_color=0D1117" alt="Top Languages"/>
+      <!-- Top Languages & Core Signatures -->
+<table align="center" style="border: none; background-color: transparent;">
+  <tr>
+    <td width="50%" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PsProsen-Dev&layout=compact&theme=tokyonight&border_color=00FFFF&title_color=FF00FF&text_color=FFFFFF&hide_border=false&bg_color=0D1117&langs_count=8" alt="Top Languages"/>
+    </td>
     </td>
     <td>
       <h3>⚡ CORE SIGNATURES</h3>
