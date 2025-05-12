@@ -25,14 +25,32 @@
   <a href="https://psprosen.bio/" target="_blank"><img src="https://img.shields.io/badge/DIGITAL_NEXUS-FF0000?style=for-the-badge&logo=CodersRank&logoColor=white" alt="Digital Nexus" class="badge-glow"/></a>
 </div>
 
+<!-- SHIELDS.IO BADGES FOR FOLLOWERS/STARS -->
+<div align="center">
+  <a href="https://github.com/PsProsen-Dev?tab=followers" target="_blank"><img src="https://img.shields.io/github/followers/PsProsen-Dev?label=Followers&style=for-the-badge&color=00FFFF" alt="Followers"/></a>
+  <a href="https://github.com/PsProsen-Dev?tab=repositories" target="_blank"><img src="https://img.shields.io/github/stars/PsProsen-Dev?label=Stars&style=for-the-badge&color=FF00FF" alt="Stars"/></a>
+</div>
+
 <!-- HOLOGRAPHIC METRICS PANEL WITH ANIMATED COUNTERS -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=PsProsen-Dev&style=for-the-badge&color=ff00ff" alt="profile views"/>
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/PsProsen-Dev?style=for-the-badge&color=00FFFF">
 </div>
 
+<!-- GITHUB STATS SECTION – VISUAL + PROOF OF WORK -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PsProsen-Dev&show_icons=true&theme=radical&border_color=00FFFF&title_color=FF00FF&icon_color=00FFFF&ring_color=FF00FF&text_color=FFFFFF&hide_border=false&bg_color=0D1117" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PsProsen-Dev&theme=radical&border=00FFFF&background=0D1117&ring=FF00FF&fire=FF00FF&currStreakLabel=00FFFF" alt="GitHub Streak"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=PsProsen-Dev&theme=radical&no-frame=true&no-bg=false&row=1&column=7" width="100%" alt="Trophy Stats"/>
+</div>
+
 <!-- HOLOGRAPHIC SEPARATOR -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%">
+
+<!-- CTA LINE -->
+<div align="center">
+  <h2>Let’s build something epic → <a href="https://psprosen.me" target="_blank">psprosen.me</a></h2>
+</div>
 
 <!-- NEURAL INTERFACE SECTION WITH PULSE ANIMATION -->
 <h2 align="center">
@@ -173,9 +191,9 @@
 
 <!-- PROJECTS SHOWCASE WITH HOLOGRAPHIC ANIMATIONS -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGllbXU0ZGtxeTlrbnU4OGh6eXhjMWxoN2F1NzBvZXBldjRhd2FiYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lRqnEQDaPr25cWr2nY/giphy.gif" width="40" height="40">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3kwNzA0ZjZsMjFpNXg0c2Vud3pxcTd0ZGJxb3BkenlsYjYxN3YxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25" height="25">
   <span style="color:#00FFFF"> ACTIVE SIMULATIONS </span>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGllbXU0ZGtxeTlrbnU4OGh6eXhjMWxoN2F1NzBvZXBldjRhd2FiYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lRqnEQDaPr25cWr2nY/giphy.gif" width="40" height="40">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3kwNzA0ZjZsMjFpNXg0c2Vud3pxcTd0ZGJxb3BkenlsYjYxN3YxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25" height="25">
 </h2>
 
 <!-- ENHANCED PROJECT CARDS WITH 3D HOVER EFFECTS -->
@@ -292,4 +310,4 @@
 </div>
 
 <!-- DYNAMIC GRADIENT FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&text=SYSTEM%20ONLINE&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=70&desc=AWAITING%20NEXT%20COMMAND&descAlignY=95&descSize=14&color=gradient&customColorList=0,2,2,5,30" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&text=SYSTEM%20ONLINE&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=70&color=gradient&customColorList=0,2,2,5,30" width="100%"/>
