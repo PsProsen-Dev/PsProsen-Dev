@@ -12,7 +12,6 @@
 
 <!-- 3D HUD ANIMATION - CYBERPUNK STYLE -->
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmplOTcwZG82OHY1aTBwb3Z6a2Z5N2QwYnBremUxMW5ybjU5cmRzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qE1YN7aBOFPRw8E/giphy.gif" alt="Iron Man HUD Activation" width="450"/>
 </div>
 
 <!-- NEON SOCIAL BADGES WITH HOVER GLOW EFFECT -->
@@ -49,7 +48,7 @@
 
 <!-- CTA LINE -->
 <div align="center">
-  <h2>Let’s build something epic → <a href="https://psprosen.me" target="_blank">psprosen.me</a></h2>
+  <h2>Visit my digital command center → <a href="https://psprosen.me" target="_blank">psprosen.me</a></h2>
 </div>
 
 <!-- NEURAL INTERFACE SECTION WITH PULSE ANIMATION -->
@@ -72,7 +71,6 @@
       </div>
     </td>
     <td>
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczY5N3ZjYnR2MW9kZnR4MmF6MTI0M3JlNmg0ODZnMG83YzF3cG0waSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qE1YN7aBOFPRw8E/giphy.gif" width="300"/>
     </td>
   </tr>
 </table>
