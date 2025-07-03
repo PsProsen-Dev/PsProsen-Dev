@@ -46,6 +46,36 @@
 <!-- HOLOGRAPHIC SEPARATOR -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%">
 
+<!-- WHO AM I SECTION - DIRECT ANSWER -->
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXp3MHFkZmVtc2hkZGNjbzJhZGJkZGFpZXNvd3A3NGNnaHc0NjZvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" height="30">
+    <span style="color:#00FFFF"> WHO AM I? </span>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXp3MHFkZmVtc2hkZGNjbzJhZGJkZGFpZXNvd3A3NGNnaHc0NjZvciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" height="30">
+  </h2>
+  
+  <div style="max-width: 800px; margin: 0 auto; padding: 20px; background: linear-gradient(135deg, #0d1117 0%, #1a0d26 100%); border-radius: 15px; border: 1px solid #00FFFF;">
+    <p style="font-size: 18px; color: #FFFFFF; line-height: 1.6;">
+      Hey there! 👋 I'm <strong style="color: #00FFFF;">Ps Prosen</strong>, a passionate full-stack developer and AI enthusiast from <strong style="color: #FF00FF;">Jalpaiguri, West Bengal, India</strong>. 
+    </p>
+    <p style="font-size: 16px; color: #FFFFFF; line-height: 1.6;">
+      🚀 I'm the <strong style="color: #FF00FF;">Founder of We Digital Mitra</strong>, where I help businesses transform their digital presence through cutting-edge technology solutions.
+    </p>
+    <p style="font-size: 16px; color: #FFFFFF; line-height: 1.6;">
+      💡 My expertise spans <strong style="color: #00FFFF;">Full-Stack Development</strong>, <strong style="color: #FF00FF;">AI/ML Integration</strong>, and <strong style="color: #00FFFF;">Modern Web Technologies</strong>. I love turning complex problems into elegant solutions and building things that make a difference.
+    </p>
+    <p style="font-size: 16px; color: #FFFFFF; line-height: 1.6;">
+      🎯 When I'm not coding, you'll find me exploring the latest in AI technology, contributing to open-source projects, or sharing knowledge with the developer community.
+    </p>
+    <p style="font-size: 16px; color: #FF00FF; line-height: 1.6; font-style: italic;">
+      "The future isn't coming – I'm coding it now!" ⚡
+    </p>
+  </div>
+</div>
+
+<!-- HOLOGRAPHIC SEPARATOR -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%">
+
 <!-- CTA LINE -->
 <div align="center">
   <h2>Visit my digital command center → <a href="https://psprosen.me" target="_blank">psprosen.me</a></h2>
