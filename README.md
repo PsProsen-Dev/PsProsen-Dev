@@ -136,12 +136,12 @@
     <summary><b>🔮 NEURAL INTERFACE (FRONTEND)</b></summary>
     <br>
     <div class="tech-badge-container">
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black"/></a>
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white"/></a>
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white"/></a>
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white"/></a>
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?style=for-the-badge&logo=TailwindCSS&logoColor=white"/></a>
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/SASS-CC6699.svg?style=for-the-badge&logo=SASS&logoColor=white"/></a>
+      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="React"/></a>
+      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/></a>
+      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"/></a>
+      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript"/></a>
+      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?style=for-the-badge&logo=TailwindCSS&logoColor=white" alt="Tailwind CSS"/></a>
+      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/SASS-CC6699.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS"/></a>
     </div>
   </details>
 
@@ -150,11 +150,11 @@
     <summary><b>🧠 QUANTUM CORE (BACKEND)</b></summary>
     <br>
     <div class="tech-badge-container">
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/></a>
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white"/></a>
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/></a>
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white"/></a>
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white"/></a>
+      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/></a>
+      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" alt="Express"/></a>
+      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="Python"/></a>
+      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white" alt="Django"/></a>
+      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white" alt="Flask"/></a>
     </div>
   </details>
 
@@ -163,10 +163,10 @@
     <summary><b>💾 MEMORY MATRIX (DATABASE)</b></summary>
     <br>
     <div class="tech-badge-container">
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white"/></a>
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white"/></a>
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white"/></a>
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=Redis&logoColor=white"/></a>
+      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" alt="MongoDB"/></a>
+      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="PostgreSQL"/></a>
+      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL"/></a>
+      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=Redis&logoColor=white" alt="Redis"/></a>
     </div>
   </details>
 
@@ -175,11 +175,11 @@
     <summary><b>🤖 NEURAL NETWORK (AI/ML)</b></summary>
     <br>
     <div class="tech-badge-container">
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/></a>
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/></a>
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white"/></a>
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/Hugging_Face-FFDD00.svg?style=for-the-badge"/></a>
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/LangChain-00FFFF.svg?style=for-the-badge"/></a>
+      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/></a>
+      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch"/></a>
+      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white" alt="OpenAI"/></a>
+      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/Hugging_Face-FFDD00.svg?style=for-the-badge" alt="Hugging Face"/></a>
+      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/LangChain-00FFFF.svg?style=for-the-badge" alt="LangChain"/></a>
     </div>
   </details>
 </div>
@@ -259,15 +259,11 @@
 </div>
 
 <!-- ENHANCED STATISTICS DISPLAY -->
-<table align="center">
-  <tr>
-    <td>
-      <!-- Top Languages & Core Signatures -->
+<!-- Top Languages & Core Signatures -->
 <table align="center" style="border: none; background-color: transparent;">
   <tr>
     <td width="50%" style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PsProsen-Dev&layout=compact&theme=tokyonight&border_color=00FFFF&title_color=FF00FF&text_color=FFFFFF&hide_border=false&bg_color=0D1117&langs_count=8" alt="Top Languages"/>
-    </td>
     </td>
     <td>
       <h3>⚡ CORE SIGNATURES</h3>
