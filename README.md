@@ -136,12 +136,12 @@
     <summary><b>🔮 NEURAL INTERFACE (FRONTEND)</b></summary>
     <br>
     <div class="tech-badge-container">
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black"/></a>
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white"/></a>
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white"/></a>
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white"/></a>
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?style=for-the-badge&logo=TailwindCSS&logoColor=white"/></a>
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/SASS-CC6699.svg?style=for-the-badge&logo=SASS&logoColor=white"/></a>
+      <img class="tech-badge" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black"/>
+      <img class="tech-badge" src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+      <img class="tech-badge" src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
+      <img class="tech-badge" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white"/>
+      <img class="tech-badge" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?style=for-the-badge&logo=TailwindCSS&logoColor=white"/>
+      <img class="tech-badge" src="https://img.shields.io/badge/SASS-CC6699.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
     </div>
   </details>
 
@@ -150,11 +150,11 @@
     <summary><b>🧠 QUANTUM CORE (BACKEND)</b></summary>
     <br>
     <div class="tech-badge-container">
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/></a>
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white"/></a>
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/></a>
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white"/></a>
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white"/></a>
+      <img class="tech-badge" src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+      <img class="tech-badge" src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white"/>
+      <img class="tech-badge" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/>
+      <img class="tech-badge" src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white"/>
+      <img class="tech-badge" src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white"/>
     </div>
   </details>
 
@@ -163,10 +163,10 @@
     <summary><b>💾 MEMORY MATRIX (DATABASE)</b></summary>
     <br>
     <div class="tech-badge-container">
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white"/></a>
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white"/></a>
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white"/></a>
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=Redis&logoColor=white"/></a>
+      <img class="tech-badge" src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white"/>
+      <img class="tech-badge" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
+      <img class="tech-badge" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white"/>
+      <img class="tech-badge" src="https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=Redis&logoColor=white"/>
     </div>
   </details>
 
@@ -175,11 +175,11 @@
     <summary><b>🤖 NEURAL NETWORK (AI/ML)</b></summary>
     <br>
     <div class="tech-badge-container">
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/></a>
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/></a>
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white"/></a>
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/Hugging_Face-FFDD00.svg?style=for-the-badge"/></a>
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/LangChain-00FFFF.svg?style=for-the-badge"/></a>
+      <img class="tech-badge" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+      <img class="tech-badge" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
+      <img class="tech-badge" src="https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white"/>
+      <img class="tech-badge" src="https://img.shields.io/badge/Hugging_Face-FFDD00.svg?style=for-the-badge"/>
+      <img class="tech-badge" src="https://img.shields.io/badge/LangChain-00FFFF.svg?style=for-the-badge"/>
     </div>
   </details>
 </div>
@@ -201,9 +201,7 @@
 <td width="50%">
 <h3 align="center">🌐 WE DIGITAL MITRA</h3>
 <div align="center">
-<a href="#" target="_blank">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3htY3pjeG5sdnRwZXF1YmwweDcwaXo0dDNnbWtwaHl0M3JjdmxqNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="100%" alt="Project"/>
-</a>
 <p><strong>A Cybernetic Digital Marketing Platform – Merging AI Analytics with Interstellar Outreach.</strong></p>
 <p>Advanced Algorithms + Neural Networks Powering Next-Gen Business Growth.</p>
 </div>
@@ -211,9 +209,7 @@
 <td width="50%">
 <h3 align="center">⚡ JARVIS (RTX⚡)</h3>
 <div align="center">
-<a href="#" target="_blank">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnJ4NDN5MnZsaHhiMHV5dnJ5NHRzOWszMGZ1bTQ0Z2xoZHE2dnEyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XEbAN657lIVMRwa1e2/giphy.gif" width="100%" alt="Project"/>
-</a>
 <p><strong>An AI Co-Pilot with Reasoning, Thinking, and Xtreme Execution Protocols!</strong></p>
 <p>Next-Gen Assistant with Advanced Language Understanding and Execution Capabilities.</p>
 </div>
@@ -223,9 +219,7 @@
 <td width="50%">
 <h3 align="center">🧪 CODE FORGE</h3>
 <div align="center">
-<a href="#" target="_blank">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmVsYXJzYnEyOG00Y3p6djFnY3RlY2NxbnphbHQyeGFibjVxbGZ0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="100%" alt="Project"/>
-</a>
 <p><strong>Repository of Futuristic Scripts – Python, JS, and AI Prototypes.</strong></p>
 <p>Open-Source Innovation Lab Pushing Boundaries of What's Possible.</p>
 </div>
@@ -233,9 +227,7 @@
 <td width="50%">
 <h3 align="center">🔮 NEURAL HORIZON</h3>
 <div align="center">
-<a href="#" target="_blank">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWU0djVzaGhueWNmemFtdnh0OTlvNGh2aXY1NnRxM3ppY2M1ZGgzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0He4nkyI5cMhXzvW/giphy.gif" width="100%" alt="Project"/>
-</a>
 <p><strong>Experimental Projects Pushing the Edge of Human-Tech Symbiosis.</strong></p>
 <p>Exploring the Frontier Where Human Creativity Meets Machine Intelligence.</p>
 </div>
