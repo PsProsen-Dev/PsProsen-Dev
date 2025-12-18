@@ -53,9 +53,9 @@
 
 <!-- NEURAL INTERFACE SECTION WITH PULSE ANIMATION -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ltajlubDR1bXEzYW10ajkxdWp1ODBvZjY1d2g5MWM3ZHoxamgwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="35" height="35">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ltajlubDR1bXEzYW10ajkxdWp1ODBvZjY1d2g5MWM3ZHoxamgwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="35" height="35" alt="">
   <span style="color:#00FFFF"> NEURAL INTERFACE: SYSTEM OVERVIEW </span>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ltajlubDR1bXEzYW10ajkxdWp1ODBvZjY1d2g5MWM3ZHoxamgwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="35" height="35">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ltajlubDR1bXEzYW10ajkxdWp1ODBvZjY1d2g5MWM3ZHoxamgwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="35" height="35" alt="">
 </h2>
 
 <!-- ENHANCED CYBERNETIC PROFILE WITH 3D ANIMATION -->
@@ -78,9 +78,9 @@
 <!-- HOLOGRAPHIC KEY METRICS WITH ADVANCED VISUALIZATION -->
 <div align="center">
   <h3>
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3kwNzA0ZjZsMjFpNXg0c2Vud3pxcTd0ZGJxb3BkenlsYjYxN3YxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25" height="25">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3kwNzA0ZjZsMjFpNXg0c2Vud3pxcTd0ZGJxb3BkenlsYjYxN3YxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25" height="25" alt="">
     HOLOGRAPHIC METRICS ENGINE
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3kwNzA0ZjZsMjFpNXg0c2Vud3pxcTd0ZGJxb3BkenlsYjYxN3YxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25" height="25">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3kwNzA0ZjZsMjFpNXg0c2Vud3pxcTd0ZGJxb3BkenlsYjYxN3YxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25" height="25" alt="">
   </h3>
   
   <!-- ENHANCED STATS WITH 3D HOLOGRAM EFFECT -->
@@ -101,9 +101,9 @@
 <!-- TECHNOLOGY MATRIX WITH ANIMATED SKILL ICONS - LANDSCAPE FORMAT -->
 <div align="center">
   <h2>
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjAxYmo3ajJjaTkwbWs4NW4zazB5dHlpcGVwOTVrNmplMHdlZWg4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/juua9i2c2fA0AIp2iq/giphy.gif" width="40" height="40">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjAxYmo3ajJjaTkwbWs4NW4zazB5dHlpcGVwOTVrNmplMHdlZWg4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/juua9i2c2fA0AIp2iq/giphy.gif" width="40" height="40" alt="">
     <span style="color:#00FFFF"> TECHNOLOGY MATRIX </span>
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjAxYmo3ajJjaTkwbWs4NW4zazB5dHlpcGVwOTVrNmplMHdlZWg4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/juua9i2c2fA0AIp2iq/giphy.gif" width="40" height="40">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjAxYmo3ajJjaTkwbWs4NW4zazB5dHlpcGVwOTVrNmplMHdlZWg4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/juua9i2c2fA0AIp2iq/giphy.gif" width="40" height="40" alt="">
   </h2>
   
   <!-- LOTTIE-BASED ANIMATED SKILL ICONS - LANDSCAPE LAYOUT -->
@@ -189,9 +189,9 @@
 
 <!-- PROJECTS SHOWCASE WITH HOLOGRAPHIC ANIMATIONS -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3kwNzA0ZjZsMjFpNXg0c2Vud3pxcTd0ZGJxb3BkenlsYjYxN3YxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25" height="25">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3kwNzA0ZjZsMjFpNXg0c2Vud3pxcTd0ZGJxb3BkenlsYjYxN3YxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25" height="25" alt="">
   <span style="color:#00FFFF"> ACTIVE SIMULATIONS </span>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3kwNzA0ZjZsMjFpNXg0c2Vud3pxcTd0ZGJxb3BkenlsYjYxN3YxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25" height="25">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3kwNzA0ZjZsMjFpNXg0c2Vud3pxcTd0ZGJxb3BkenlsYjYxN3YxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25" height="25" alt="">
 </h2>
 
 <!-- ENHANCED PROJECT CARDS WITH 3D HOVER EFFECTS -->
@@ -248,9 +248,9 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%">
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJteGYwbWtlMHZ1cTVtcGJienl0MWd4aGUyajU5and1YWllNm1leiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif" width="40" height="40">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJteGYwbWtlMHZ1cTVtcGJienl0MWd4aGUyajU5and1YWllNm1leiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif" width="40" height="40" alt="">
   <span style="color:#00FFFF"> QUANTUM SIGNATURES </span>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJteGYwbWtlMHZ1cTVtcGJienl0MWd4aGUyajU5and1YWllNm1leiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif" width="40" height="40">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJteGYwbWtlMHZ1cTVtcGJienl0MWd4aGUyajU5and1YWllNm1leiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif" width="40" height="40" alt="">
 </h2>
 
 <!-- ENHANCED ACTIVITY GRAPH WITH HOLOGRAPHIC EFFECT -->
@@ -267,7 +267,6 @@
   <tr>
     <td width="50%" style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PsProsen-Dev&layout=compact&theme=tokyonight&border_color=00FFFF&title_color=FF00FF&text_color=FFFFFF&hide_border=false&bg_color=0D1117&langs_count=8" alt="Top Languages"/>
-    </td>
     </td>
     <td>
       <h3>⚡ CORE SIGNATURES</h3>
@@ -288,9 +287,9 @@
 <!-- ENHANCED CONTACT SECTION -->
 <div align="center">
   <h3>
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzhjem5xeTJtYTQ5NHEyaXUwbDQzMXVmbnE4MXBuOXBhY25tdnhpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ln7z2eWriiQAllfVcn/giphy.gif" width="25">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzhjem5xeTJtYTQ5NHEyaXUwbDQzMXVmbnE4MXBuOXBhY25tdnhpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ln7z2eWriiQAllfVcn/giphy.gif" width="25" alt="">
     TRANSMISSION COORDINATES
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzhjem5xeTJtYTQ5NHEyaXUwbDQzMXVmbnE4MXBuOXBhY25tdnhpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ln7z2eWriiQAllfVcn/giphy.gif" width="25">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzhjem5xeTJtYTQ5NHEyaXUwbDQzMXVmbnE4MXBuOXBhY25tdnhpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ln7z2eWriiQAllfVcn/giphy.gif" width="25" alt="">
   </h3>
   
   <!-- ENHANCED HOLOGRAPHIC CONTACT SECTION -->
