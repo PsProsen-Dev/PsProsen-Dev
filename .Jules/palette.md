@@ -1,0 +1,3 @@
+## 2024-05-23 - Decorative vs Informational Images in READMEs
+**Learning:** GitHub Profile READMEs often use images for purely visual flair (separators, gifs) and for conveying data (badges). Screen readers can get cluttered with "image" announcements for decorative elements.
+**Action:** Always audit `<img>` tags. Use `alt=""` for decorative elements (lines, icons next to text) and descriptive `alt` text for badges/charts containing information.
