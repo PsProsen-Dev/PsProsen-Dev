@@ -1,0 +1,3 @@
+## 2024-05-23 - [GitHub Profile Accessibility]
+**Learning:** Profile READMEs often rely heavily on dynamic images (badges, SVGs, GIFs) for visual flair, but this creates significant barriers for screen reader users if `alt` text is generic or missing. Specifically, "Project" as alt text for a project preview GIF is a common anti-pattern that renders the portfolio navigation opaque to non-sighted users.
+**Action:** When auditing Profile READMEs, prioritize replacing "placeholder" alt text (like "Project", "Typing SVG") with content-descriptive text, and explicitly mark decorative elements (like header icons) with `alt=""` to reduce noise.
