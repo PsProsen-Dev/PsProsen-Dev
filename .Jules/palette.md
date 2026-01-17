@@ -1,0 +1,3 @@
+## 2024-05-23 - Accessibility in Profile READMEs
+**Learning:** GitHub Profile READMEs often rely on external image services (like readme-typing-svg or capsule-render) and raw HTML for visual flair. A common pattern is missing `alt` attributes on purely decorative images (separators, icons) and generic `alt` text on informative dynamic images.
+**Action:** When auditing Profile READMEs, explicitly check purely decorative images (Giphy icons, separators) and ensure they have `alt=""`. For dynamic text images, manually override the default `alt` text with the actual content being displayed to ensure screen readers convey the intended message.
