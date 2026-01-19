@@ -1,13 +1,13 @@
 <div align="center">
   <!-- COSMIC PARALLAX HEADER WITH 3D DEPTH EFFECT -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=635&lines=INITIALIZING...;NEURAL+LINK+ESTABLISHED;WELCOME+TO+PS+PROSEN'S+MATRIX" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=635&lines=INITIALIZING...;NEURAL+LINK+ESTABLISHED;WELCOME+TO+PS+PROSEN'S+MATRIX" alt="INITIALIZING... | NEURAL LINK ESTABLISHED | WELCOME TO PS PROSEN'S MATRIX" /></a>
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=Ps%20Prosen&fontSize=90&animation=fadeIn&fontColor=fff&fontAlignY=38&desc=ARCHITECT%20OF%20TOMORROW&color=gradient&customColorList=0,2,2,5,30" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=Ps%20Prosen&fontSize=90&animation=fadeIn&fontColor=fff&fontAlignY=38&desc=ARCHITECT%20OF%20TOMORROW&color=gradient&customColorList=0,2,2,5,30" width="100%" alt="Ps Prosen - Architect of Tomorrow" />
 </div>
 
 <p align="center">
   <!-- ADVANCED ANIMATED TYPING WITH ENHANCED EFFECTS -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=600&lines=FOUNDER+%40+WE+DIGITAL+MITRA;CYBERNETIC+INNOVATOR+%7C+DIGITAL+ALCHEMIST;FULL-STACK+ENGINEERING+%2B+AI%2FML+AUGMENTATION;QUANTUM+DEVELOPMENT+%7C+NEURAL+ARCHITECTURE;JARVIS+(RTX⚡)+INTEGRATION+%7C+PRIME+DIRECTIVE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=600&lines=FOUNDER+%40+WE+DIGITAL+MITRA;CYBERNETIC+INNOVATOR+%7C+DIGITAL+ALCHEMIST;FULL-STACK+ENGINEERING+%2B+AI%2FML+AUGMENTATION;QUANTUM+DEVELOPMENT+%7C+NEURAL+ARCHITECTURE;JARVIS+(RTX⚡)+INTEGRATION+%7C+PRIME+DIRECTIVE" alt="FOUNDER @ WE DIGITAL MITRA | CYBERNETIC INNOVATOR | DIGITAL ALCHEMIST | FULL-STACK ENGINEERING + AI/ML AUGMENTATION | QUANTUM DEVELOPMENT | NEURAL ARCHITECTURE | JARVIS (RTX⚡) INTEGRATION | PRIME DIRECTIVE" />
 </p>
 
 <!-- 3D HUD ANIMATION - CYBERPUNK STYLE -->
@@ -44,7 +44,7 @@
 </div>
 
 <!-- HOLOGRAPHIC SEPARATOR -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%" alt="">
 
 <!-- CTA LINE -->
 <div align="center">
@@ -53,9 +53,9 @@
 
 <!-- NEURAL INTERFACE SECTION WITH PULSE ANIMATION -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ltajlubDR1bXEzYW10ajkxdWp1ODBvZjY1d2g5MWM3ZHoxamgwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="35" height="35">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ltajlubDR1bXEzYW10ajkxdWp1ODBvZjY1d2g5MWM3ZHoxamgwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="35" height="35" alt="">
   <span style="color:#00FFFF"> NEURAL INTERFACE: SYSTEM OVERVIEW </span>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ltajlubDR1bXEzYW10ajkxdWp1ODBvZjY1d2g5MWM3ZHoxamgwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="35" height="35">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ltajlubDR1bXEzYW10ajkxdWp1ODBvZjY1d2g5MWM3ZHoxamgwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="35" height="35" alt="">
 </h2>
 
 <!-- ENHANCED CYBERNETIC PROFILE WITH 3D ANIMATION -->
@@ -67,7 +67,7 @@
       <p>As the architect behind <b>We Digital Mitra</b>, I'm engineering a hyper-advanced digital ecosystem designed to revolutionize the online multiverse.</p>
       <p>Think of me as a cybernetic Tony Stark – fusing code, innovation, and strategy into a single unstoppable force that's redefining digital frontiers!</p>
       <div align="center">
-        <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" alt="Binary Pulse" />
+        <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" alt="" />
       </div>
     </td>
     <td>
@@ -78,9 +78,9 @@
 <!-- HOLOGRAPHIC KEY METRICS WITH ADVANCED VISUALIZATION -->
 <div align="center">
   <h3>
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3kwNzA0ZjZsMjFpNXg0c2Vud3pxcTd0ZGJxb3BkenlsYjYxN3YxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25" height="25">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3kwNzA0ZjZsMjFpNXg0c2Vud3pxcTd0ZGJxb3BkenlsYjYxN3YxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25" height="25" alt="">
     HOLOGRAPHIC METRICS ENGINE
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3kwNzA0ZjZsMjFpNXg0c2Vud3pxcTd0ZGJxb3BkenlsYjYxN3YxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25" height="25">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3kwNzA0ZjZsMjFpNXg0c2Vud3pxcTd0ZGJxb3BkenlsYjYxN3YxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25" height="25" alt="">
   </h3>
   
   <!-- ENHANCED STATS WITH 3D HOLOGRAM EFFECT -->
@@ -96,14 +96,14 @@
 </div>
 
 <!-- HOLOGRAPHIC SEPARATOR WITH ANIMATED PULSE -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%" alt="">
 
 <!-- TECHNOLOGY MATRIX WITH ANIMATED SKILL ICONS - LANDSCAPE FORMAT -->
 <div align="center">
   <h2>
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjAxYmo3ajJjaTkwbWs4NW4zazB5dHlpcGVwOTVrNmplMHdlZWg4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/juua9i2c2fA0AIp2iq/giphy.gif" width="40" height="40">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjAxYmo3ajJjaTkwbWs4NW4zazB5dHlpcGVwOTVrNmplMHdlZWg4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/juua9i2c2fA0AIp2iq/giphy.gif" width="40" height="40" alt="">
     <span style="color:#00FFFF"> TECHNOLOGY MATRIX </span>
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjAxYmo3ajJjaTkwbWs4NW4zazB5dHlpcGVwOTVrNmplMHdlZWg4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/juua9i2c2fA0AIp2iq/giphy.gif" width="40" height="40">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjAxYmo3ajJjaTkwbWs4NW4zazB5dHlpcGVwOTVrNmplMHdlZWg4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/juua9i2c2fA0AIp2iq/giphy.gif" width="40" height="40" alt="">
   </h2>
   
   <!-- LOTTIE-BASED ANIMATED SKILL ICONS - LANDSCAPE LAYOUT -->
@@ -121,7 +121,7 @@
   </table>
   
   <div style="display: flex; justify-content: center; overflow-x: auto; padding: 10px 0;">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,vue,mongodb,postgres,git,tensorflow,pytorch,figma&perline=10" alt="Tech Stack"/>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,vue,mongodb,postgres,git,tensorflow,pytorch,figma&perline=10" alt="Tech Stack: Node.js, Express, Next.js, Vue, MongoDB, Postgres, Git, TensorFlow, PyTorch, Figma"/>
   </div>
 </div>
 
@@ -136,12 +136,12 @@
     <summary><b>🔮 NEURAL INTERFACE (FRONTEND)</b></summary>
     <br>
     <div class="tech-badge-container">
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black"/></a>
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white"/></a>
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white"/></a>
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white"/></a>
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?style=for-the-badge&logo=TailwindCSS&logoColor=white"/></a>
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/SASS-CC6699.svg?style=for-the-badge&logo=SASS&logoColor=white"/></a>
+      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="React"/></a>
+      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/></a>
+      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"/></a>
+      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript"/></a>
+      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?style=for-the-badge&logo=TailwindCSS&logoColor=white" alt="Tailwind CSS"/></a>
+      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/SASS-CC6699.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS"/></a>
     </div>
   </details>
 
@@ -150,11 +150,11 @@
     <summary><b>🧠 QUANTUM CORE (BACKEND)</b></summary>
     <br>
     <div class="tech-badge-container">
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/></a>
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white"/></a>
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/></a>
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white"/></a>
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white"/></a>
+      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/></a>
+      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" alt="Express"/></a>
+      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="Python"/></a>
+      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white" alt="Django"/></a>
+      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white" alt="Flask"/></a>
     </div>
   </details>
 
@@ -163,10 +163,10 @@
     <summary><b>💾 MEMORY MATRIX (DATABASE)</b></summary>
     <br>
     <div class="tech-badge-container">
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white"/></a>
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white"/></a>
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white"/></a>
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=Redis&logoColor=white"/></a>
+      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" alt="MongoDB"/></a>
+      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="PostgreSQL"/></a>
+      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL"/></a>
+      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=Redis&logoColor=white" alt="Redis"/></a>
     </div>
   </details>
 
@@ -175,23 +175,23 @@
     <summary><b>🤖 NEURAL NETWORK (AI/ML)</b></summary>
     <br>
     <div class="tech-badge-container">
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/></a>
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/></a>
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white"/></a>
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/Hugging_Face-FFDD00.svg?style=for-the-badge"/></a>
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/LangChain-00FFFF.svg?style=for-the-badge"/></a>
+      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/></a>
+      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch"/></a>
+      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white" alt="OpenAI"/></a>
+      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/Hugging_Face-FFDD00.svg?style=for-the-badge" alt="Hugging Face"/></a>
+      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/LangChain-00FFFF.svg?style=for-the-badge" alt="LangChain"/></a>
     </div>
   </details>
 </div>
 
 <!-- ANIMATED HOLOGRAPHIC SEPARATOR -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%" alt="">
 
 <!-- PROJECTS SHOWCASE WITH HOLOGRAPHIC ANIMATIONS -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3kwNzA0ZjZsMjFpNXg0c2Vud3pxcTd0ZGJxb3BkenlsYjYxN3YxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25" height="25">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3kwNzA0ZjZsMjFpNXg0c2Vud3pxcTd0ZGJxb3BkenlsYjYxN3YxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25" height="25" alt="">
   <span style="color:#00FFFF"> ACTIVE SIMULATIONS </span>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3kwNzA0ZjZsMjFpNXg0c2Vud3pxcTd0ZGJxb3BkenlsYjYxN3YxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25" height="25">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3kwNzA0ZjZsMjFpNXg0c2Vud3pxcTd0ZGJxb3BkenlsYjYxN3YxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25" height="25" alt="">
 </h2>
 
 <!-- ENHANCED PROJECT CARDS WITH 3D HOVER EFFECTS -->
@@ -202,7 +202,7 @@
 <h3 align="center">🌐 WE DIGITAL MITRA</h3>
 <div align="center">
 <a href="#" target="_blank">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3htY3pjeG5sdnRwZXF1YmwweDcwaXo0dDNnbWtwaHl0M3JjdmxqNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="100%" alt="Project"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3htY3pjeG5sdnRwZXF1YmwweDcwaXo0dDNnbWtwaHl0M3JjdmxqNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="100%" alt="We Digital Mitra Project Preview"/>
 </a>
 <p><strong>A Cybernetic Digital Marketing Platform – Merging AI Analytics with Interstellar Outreach.</strong></p>
 <p>Advanced Algorithms + Neural Networks Powering Next-Gen Business Growth.</p>
@@ -212,7 +212,7 @@
 <h3 align="center">⚡ JARVIS (RTX⚡)</h3>
 <div align="center">
 <a href="#" target="_blank">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnJ4NDN5MnZsaHhiMHV5dnJ5NHRzOWszMGZ1bTQ0Z2xoZHE2dnEyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XEbAN657lIVMRwa1e2/giphy.gif" width="100%" alt="Project"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnJ4NDN5MnZsaHhiMHV5dnJ5NHRzOWszMGZ1bTQ0Z2xoZHE2dnEyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XEbAN657lIVMRwa1e2/giphy.gif" width="100%" alt="Jarvis Project Preview"/>
 </a>
 <p><strong>An AI Co-Pilot with Reasoning, Thinking, and Xtreme Execution Protocols!</strong></p>
 <p>Next-Gen Assistant with Advanced Language Understanding and Execution Capabilities.</p>
@@ -224,7 +224,7 @@
 <h3 align="center">🧪 CODE FORGE</h3>
 <div align="center">
 <a href="#" target="_blank">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmVsYXJzYnEyOG00Y3p6djFnY3RlY2NxbnphbHQyeGFibjVxbGZ0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="100%" alt="Project"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmVsYXJzYnEyOG00Y3p6djFnY3RlY2NxbnphbHQyeGFibjVxbGZ0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="100%" alt="Code Forge Project Preview"/>
 </a>
 <p><strong>Repository of Futuristic Scripts – Python, JS, and AI Prototypes.</strong></p>
 <p>Open-Source Innovation Lab Pushing Boundaries of What's Possible.</p>
@@ -234,7 +234,7 @@
 <h3 align="center">🔮 NEURAL HORIZON</h3>
 <div align="center">
 <a href="#" target="_blank">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWU0djVzaGhueWNmemFtdnh0OTlvNGh2aXY1NnRxM3ppY2M1ZGgzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0He4nkyI5cMhXzvW/giphy.gif" width="100%" alt="Project"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWU0djVzaGhueWNmemFtdnh0OTlvNGh2aXY1NnRxM3ppY2M1ZGgzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0He4nkyI5cMhXzvW/giphy.gif" width="100%" alt="Neural Horizon Project Preview"/>
 </a>
 <p><strong>Experimental Projects Pushing the Edge of Human-Tech Symbiosis.</strong></p>
 <p>Exploring the Frontier Where Human Creativity Meets Machine Intelligence.</p>
@@ -245,12 +245,12 @@
 </div>
 
 <!-- QUANTUM SIGNATURES WITH ADVANCED VISUALIZATION -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%" alt="">
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJteGYwbWtlMHZ1cTVtcGJienl0MWd4aGUyajU5and1YWllNm1leiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif" width="40" height="40">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJteGYwbWtlMHZ1cTVtcGJienl0MWd4aGUyajU5and1YWllNm1leiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif" width="40" height="40" alt="">
   <span style="color:#00FFFF"> QUANTUM SIGNATURES </span>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJteGYwbWtlMHZ1cTVtcGJienl0MWd4aGUyajU5and1YWllNm1leiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif" width="40" height="40">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJteGYwbWtlMHZ1cTVtcGJienl0MWd4aGUyajU5and1YWllNm1leiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif" width="40" height="40" alt="">
 </h2>
 
 <!-- ENHANCED ACTIVITY GRAPH WITH HOLOGRAPHIC EFFECT -->
@@ -283,21 +283,21 @@
 </table>
 
 <!-- HOLOGRAPHIC SEPARATOR -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%" alt="">
 
 <!-- ENHANCED CONTACT SECTION -->
 <div align="center">
   <h3>
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzhjem5xeTJtYTQ5NHEyaXUwbDQzMXVmbnE4MXBuOXBhY25tdnhpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ln7z2eWriiQAllfVcn/giphy.gif" width="25">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzhjem5xeTJtYTQ5NHEyaXUwbDQzMXVmbnE4MXBuOXBhY25tdnhpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ln7z2eWriiQAllfVcn/giphy.gif" width="25" alt="">
     TRANSMISSION COORDINATES
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzhjem5xeTJtYTQ5NHEyaXUwbDQzMXVmbnE4MXBuOXBhY25tdnhpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ln7z2eWriiQAllfVcn/giphy.gif" width="25">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzhjem5xeTJtYTQ5NHEyaXUwbDQzMXVmbnE4MXBuOXBhY25tdnhpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ln7z2eWriiQAllfVcn/giphy.gif" width="25" alt="">
   </h3>
   
   <!-- ENHANCED HOLOGRAPHIC CONTACT SECTION -->
   <div class="contact-badges">
-    <img src="https://img.shields.io/badge/Origin-Jalpaiguri%2C%20WB%2C%20India-00FFFF?style=for-the-badge&logo=GoogleMaps&logoColor=black" />
-    <img src="https://img.shields.io/badge/Identity-He%2FHim-FF00FF?style=for-the-badge&logo=user&logoColor=black" />
-    <img src="https://img.shields.io/badge/System-We%20Digital%20Mitra-FF5733?style=for-the-badge&logo=rocket&logoColor=white" />
+    <img src="https://img.shields.io/badge/Origin-Jalpaiguri%2C%20WB%2C%20India-00FFFF?style=for-the-badge&logo=GoogleMaps&logoColor=black" alt="Origin: Jalpaiguri, WB, India" />
+    <img src="https://img.shields.io/badge/Identity-He%2FHim-FF00FF?style=for-the-badge&logo=user&logoColor=black" alt="Identity: He/Him" />
+    <img src="https://img.shields.io/badge/System-We%20Digital%20Mitra-FF5733?style=for-the-badge&logo=rocket&logoColor=white" alt="System: We Digital Mitra" />
   </div>
 </div>
 
@@ -308,4 +308,4 @@
 </div>
 
 <!-- DYNAMIC GRADIENT FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&text=SYSTEM%20ONLINE&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=70&color=gradient&customColorList=0,2,2,5,30" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&text=SYSTEM%20ONLINE&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=70&color=gradient&customColorList=0,2,2,5,30" width="100%" alt="System Online"/>
