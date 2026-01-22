@@ -1,13 +1,13 @@
 <div align="center">
   <!-- COSMIC PARALLAX HEADER WITH 3D DEPTH EFFECT -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=635&lines=INITIALIZING...;NEURAL+LINK+ESTABLISHED;WELCOME+TO+PS+PROSEN'S+MATRIX" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=635&lines=INITIALIZING...;NEURAL+LINK+ESTABLISHED;WELCOME+TO+PS+PROSEN'S+MATRIX" alt="Initializing... Neural Link Established; Welcome to Ps Prosen's Matrix" /></a>
   
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=Ps%20Prosen&fontSize=90&animation=fadeIn&fontColor=fff&fontAlignY=38&desc=ARCHITECT%20OF%20TOMORROW&color=gradient&customColorList=0,2,2,5,30" width="100%" />
 </div>
 
 <p align="center">
   <!-- ADVANCED ANIMATED TYPING WITH ENHANCED EFFECTS -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=600&lines=FOUNDER+%40+WE+DIGITAL+MITRA;CYBERNETIC+INNOVATOR+%7C+DIGITAL+ALCHEMIST;FULL-STACK+ENGINEERING+%2B+AI%2FML+AUGMENTATION;QUANTUM+DEVELOPMENT+%7C+NEURAL+ARCHITECTURE;JARVIS+(RTX⚡)+INTEGRATION+%7C+PRIME+DIRECTIVE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=600&lines=FOUNDER+%40+WE+DIGITAL+MITRA;CYBERNETIC+INNOVATOR+%7C+DIGITAL+ALCHEMIST;FULL-STACK+ENGINEERING+%2B+AI%2FML+AUGMENTATION;QUANTUM+DEVELOPMENT+%7C+NEURAL+ARCHITECTURE;JARVIS+(RTX⚡)+INTEGRATION+%7C+PRIME+DIRECTIVE" alt="Founder @ We Digital Mitra; Cybernetic Innovator | Digital Alchemist; Full-Stack Engineering + AI/ML Augmentation; Quantum Development | Neural Architecture; Jarvis (RTX⚡) Integration | Prime Directive" />
 </p>
 
 <!-- 3D HUD ANIMATION - CYBERPUNK STYLE -->
@@ -44,7 +44,7 @@
 </div>
 
 <!-- HOLOGRAPHIC SEPARATOR -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%" alt="">
 
 <!-- CTA LINE -->
 <div align="center">
@@ -96,7 +96,7 @@
 </div>
 
 <!-- HOLOGRAPHIC SEPARATOR WITH ANIMATED PULSE -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%" alt="">
 
 <!-- TECHNOLOGY MATRIX WITH ANIMATED SKILL ICONS - LANDSCAPE FORMAT -->
 <div align="center">
@@ -185,7 +185,7 @@
 </div>
 
 <!-- ANIMATED HOLOGRAPHIC SEPARATOR -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%" alt="">
 
 <!-- PROJECTS SHOWCASE WITH HOLOGRAPHIC ANIMATIONS -->
 <h2 align="center">
@@ -245,7 +245,7 @@
 </div>
 
 <!-- QUANTUM SIGNATURES WITH ADVANCED VISUALIZATION -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%" alt="">
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJteGYwbWtlMHZ1cTVtcGJienl0MWd4aGUyajU5and1YWllNm1leiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif" width="40" height="40">
@@ -283,7 +283,7 @@
 </table>
 
 <!-- HOLOGRAPHIC SEPARATOR -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%" alt="">
 
 <!-- ENHANCED CONTACT SECTION -->
 <div align="center">
