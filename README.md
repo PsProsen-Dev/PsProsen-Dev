@@ -136,12 +136,12 @@
     <summary><b>🔮 NEURAL INTERFACE (FRONTEND)</b></summary>
     <br>
     <div class="tech-badge-container">
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="React"/></a>
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/></a>
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"/></a>
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript"/></a>
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?style=for-the-badge&logo=TailwindCSS&logoColor=white" alt="Tailwind CSS"/></a>
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/SASS-CC6699.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS"/></a>
+      <img class="tech-badge" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="React"/>
+      <img class="tech-badge" src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+      <img class="tech-badge" src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
+      <img class="tech-badge" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript"/>
+      <img class="tech-badge" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?style=for-the-badge&logo=TailwindCSS&logoColor=white" alt="Tailwind CSS"/>
+      <img class="tech-badge" src="https://img.shields.io/badge/SASS-CC6699.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS"/>
     </div>
   </details>
 
