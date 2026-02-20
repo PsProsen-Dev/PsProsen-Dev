@@ -175,11 +175,11 @@
     <summary><b>🤖 NEURAL NETWORK (AI/ML)</b></summary>
     <br>
     <div class="tech-badge-container">
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/></a>
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch"/></a>
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white" alt="OpenAI"/></a>
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/Hugging_Face-FFDD00.svg?style=for-the-badge" alt="Hugging Face"/></a>
-      <a href="#"><img class="tech-badge" src="https://img.shields.io/badge/LangChain-00FFFF.svg?style=for-the-badge" alt="LangChain"/></a>
+      <img class="tech-badge" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/>
+      <img class="tech-badge" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch"/>
+      <img class="tech-badge" src="https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white" alt="OpenAI"/>
+      <img class="tech-badge" src="https://img.shields.io/badge/Hugging_Face-FFDD00.svg?style=for-the-badge" alt="Hugging Face"/>
+      <img class="tech-badge" src="https://img.shields.io/badge/LangChain-00FFFF.svg?style=for-the-badge" alt="LangChain"/>
     </div>
   </details>
 </div>
