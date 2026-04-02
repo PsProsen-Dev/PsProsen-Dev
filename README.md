@@ -1,311 +1,113 @@
 <div align="center">
-  <!-- COSMIC PARALLAX HEADER WITH 3D DEPTH EFFECT -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=635&lines=INITIALIZING...;NEURAL+LINK+ESTABLISHED;WELCOME+TO+PS+PROSEN'S+MATRIX" alt="Animated text: Initializing... Neural Link Established, Welcome to Ps Prosen's Matrix" /></a>
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=Ps%20Prosen&fontSize=90&animation=fadeIn&fontColor=fff&fontAlignY=38&desc=ARCHITECT%20OF%20TOMORROW&color=gradient&customColorList=0,2,2,5,30" width="100%" alt="Ps Prosen - Architect of Tomorrow" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=650&lines=AI+AUTOMATION+ENTREPRENEUR;AGENTIC+SYSTEMS+ARCHITECT;FOUNDER+@+WE+DIGITAL+MITRA" alt="AI Automation Entrepreneur" /></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=Prosenjit%20Paul&fontSize=80&animation=fadeIn&fontColor=fff&fontAlignY=38&desc=Building+Autonomous+AI+Systems&color=gradient&customColorList=0,2,2,5,30" width="100%" alt="Header"/>
 </div>
 
 <p align="center">
-  <!-- ADVANCED ANIMATED TYPING WITH ENHANCED EFFECTS -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=600&lines=FOUNDER+%40+WE+DIGITAL+MITRA;CYBERNETIC+INNOVATOR+%7C+DIGITAL+ALCHEMIST;FULL-STACK+ENGINEERING+%2B+AI%2FML+AUGMENTATION;QUANTUM+DEVELOPMENT+%7C+NEURAL+ARCHITECTURE;JARVIS+(RTX⚡)+INTEGRATION+%7C+PRIME+DIRECTIVE" alt="Animated text: Founder at We Digital Mitra, Cybernetic Innovator, Digital Alchemist, Full-Stack Engineering, AI/ML Augmentation, Jarvis Integration" />
+  <a href="https://github.com/PsProsen-Dev"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"/></a>
+  <a href="https://linkedin.com/in/psprosen"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:prosen@wedigitalmitra.com"><img src="https://img.shields.io/badge/Email-prosen%40wedigitalmitra.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/PsProsen-Dev?tab=followers"><img src="https://img.shields.io/github/followers/PsProsen-Dev?label=Followers&style=for-the-badge&color=00FFFF" alt="Followers"/></a>
 </p>
 
-<!-- 3D HUD ANIMATION - CYBERPUNK STYLE -->
 <div align="center">
-</div>
-
-<!-- NEON SOCIAL BADGES WITH HOVER GLOW EFFECT -->
-<div align="center" class="badges-container">
-  <a href="https://twitter.com/ProsenPs" target="_blank"><img src="https://img.shields.io/badge/Twitter-%2300FFFF.svg?style=for-the-badge&logo=Twitter&logoColor=black" alt="Twitter" class="badge-glow"/></a>
-  <a href="https://linkedin.com/in/psprosen" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%23FF00FF.svg?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" class="badge-glow"/></a>
-  <a href="https://github.com/PsProsen-Dev" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" class="badge-glow"/></a>
-  <a href="mailto:psprosen@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-psprosen%40hotmail.com-FF5733?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" class="badge-glow"/></a>
-  <a href="https://calendly.com/psprosen" target="_blank"><img src="https://img.shields.io/badge/QUANTUM_SYNC-4285F4?style=for-the-badge&logo=GoogleCalendar&logoColor=white" alt="Calendly" class="badge-glow"/></a>
-  <a href="https://psprosen.bio/" target="_blank"><img src="https://img.shields.io/badge/DIGITAL_NEXUS-FF0000?style=for-the-badge&logo=CodersRank&logoColor=white" alt="Digital Nexus" class="badge-glow"/></a>
-</div>
-
-<!-- SHIELDS.IO BADGES FOR FOLLOWERS/STARS -->
-<div align="center">
-  <a href="https://github.com/PsProsen-Dev?tab=followers" target="_blank"><img src="https://img.shields.io/github/followers/PsProsen-Dev?label=Followers&style=for-the-badge&color=00FFFF" alt="Followers"/></a>
-  <a href="https://github.com/PsProsen-Dev?tab=repositories" target="_blank"><img src="https://img.shields.io/github/stars/PsProsen-Dev?label=Stars&style=for-the-badge&color=FF00FF" alt="Stars"/></a>
-</div>
-
-<!-- HOLOGRAPHIC METRICS PANEL WITH ANIMATED COUNTERS -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=PsProsen-Dev&style=for-the-badge&color=ff00ff" alt="profile views"/>
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/PsProsen-Dev?style=for-the-badge&color=00FFFF">
-</div>
-
-<!-- GITHUB STATS SECTION – VISUAL + PROOF OF WORK -->
-<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=PsProsen-Dev&style=for-the-badge&color=ff00ff&label=Profile+Views" alt="Profile views"/>
   <img src="https://github-readme-stats.vercel.app/api?username=PsProsen-Dev&show_icons=true&theme=radical&border_color=00FFFF&title_color=FF00FF&icon_color=00FFFF&ring_color=FF00FF&text_color=FFFFFF&hide_border=false&bg_color=0D1117" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PsProsen-Dev&theme=radical&border=00FFFF&background=0D1117&ring=FF00FF&fire=FF00FF&currStreakLabel=00FFFF" alt="GitHub Streak"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=PsProsen-Dev&theme=radical&no-frame=true&no-bg=false&row=1&column=7" width="100%" alt="Trophy Stats"/>
 </div>
 
-<!-- HOLOGRAPHIC SEPARATOR -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%" alt="">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%" alt="Separator"/>
 
-<!-- CTA LINE -->
-<div align="center">
-  <h2>Visit my digital command center → <a href="https://psprosen.me" target="_blank">psprosen.me</a></h2>
-</div>
+## 🚀 FEATURED PROJECTS
 
-<!-- NEURAL INTERFACE SECTION WITH PULSE ANIMATION -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ltajlubDR1bXEzYW10ajkxdWp1ODBvZjY1d2g5MWM3ZHoxamgwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="35" height="35" alt="">
-  <span style="color:#00FFFF"> NEURAL INTERFACE: SYSTEM OVERVIEW </span>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ltajlubDR1bXEzYW10ajkxdWp1ODBvZjY1d2g5MWM3ZHoxamgwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="35" height="35" alt="">
-</h2>
-
-<!-- ENHANCED CYBERNETIC PROFILE WITH 3D ANIMATION -->
-<table align="center" class="cyberpunk-table">
-  <tr>
-    <td>
-      <h3 align="center">🧠 CORE IDENTITY MATRIX</h3>
-      <p>Welcome to my quantum grid! I'm <b>Ps Prosen</b> – a self-evolved coder, AI trailblazer, and digital marketing visionary from Panbari, Jalpaiguri, WB, India.</p>
-      <p>As the architect behind <b>We Digital Mitra</b>, I'm engineering a hyper-advanced digital ecosystem designed to revolutionize the online multiverse.</p>
-      <p>Think of me as a cybernetic Tony Stark – fusing code, innovation, and strategy into a single unstoppable force that's redefining digital frontiers!</p>
-      <div align="center">
-        <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" alt="Binary Pulse" />
-      </div>
-    </td>
-    <td>
-    </td>
-  </tr>
-</table>
-
-<!-- HOLOGRAPHIC KEY METRICS WITH ADVANCED VISUALIZATION -->
-<div align="center">
-  <h3>
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3kwNzA0ZjZsMjFpNXg0c2Vud3pxcTd0ZGJxb3BkenlsYjYxN3YxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25" height="25" alt="">
-    HOLOGRAPHIC METRICS ENGINE
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3kwNzA0ZjZsMjFpNXg0c2Vud3pxcTd0ZGJxb3BkenlsYjYxN3YxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25" height="25" alt="">
-  </h3>
-  
-  <!-- ENHANCED STATS WITH 3D HOLOGRAM EFFECT -->
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=PsProsen-Dev&show_icons=true&theme=radical&border_color=00FFFF&title_color=FF00FF&icon_color=00FFFF&ring_color=FF00FF&text_color=FFFFFF&hide_border=false&bg_color=0D1117" alt="GitHub Stats"/></td>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=PsProsen-Dev&theme=radical&border=00FFFF&background=0D1117&ring=FF00FF&fire=FF00FF&currStreakLabel=00FFFF" alt="GitHub Streak"/></td>
-    </tr>
-  </table>
-  
-  <!-- TROPHY DISPLAY WITH ENHANCED VISUAL EFFECTS -->
-  <img src="https://github-profile-trophy.vercel.app/?username=PsProsen-Dev&theme=radical&no-frame=true&no-bg=false&row=1&column=7" width="100%" alt="Trophy Stats"/>
-</div>
-
-<!-- HOLOGRAPHIC SEPARATOR WITH ANIMATED PULSE -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%" alt="">
-
-<!-- TECHNOLOGY MATRIX WITH ANIMATED SKILL ICONS - LANDSCAPE FORMAT -->
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjAxYmo3ajJjaTkwbWs4NW4zazB5dHlpcGVwOTVrNmplMHdlZWg4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/juua9i2c2fA0AIp2iq/giphy.gif" width="40" height="40" alt="">
-    <span style="color:#00FFFF"> TECHNOLOGY MATRIX </span>
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjAxYmo3ajJjaTkwbWs4NW4zazB5dHlpcGVwOTVrNmplMHdlZWg4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/juua9i2c2fA0AIp2iq/giphy.gif" width="40" height="40" alt="">
-  </h2>
-  
-  <!-- LOTTIE-BASED ANIMATED SKILL ICONS - LANDSCAPE LAYOUT -->
-  <table>
-    <tr>
-      <td><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="60" height="60" /></td>
-      <td><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="60" height="60" /></td>
-      <td><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="60" height="60" /></td>
-      <td><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="60" height="60" /></td>
-      <td><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="60" height="60" /></td>
-      <td><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="60" height="60" /></td>
-      <td><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="60" height="60" /></td>
-      <td><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="60" height="60" /></td>
-    </tr>
-  </table>
-  
-  <div style="display: flex; justify-content: center; overflow-x: auto; padding: 10px 0;">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,vue,mongodb,postgres,git,tensorflow,pytorch,figma&perline=10" alt="Tech Stack"/>
-  </div>
-</div>
-
-<br>
-
-<!-- ENHANCED CYBERNETIC ARSENAL WITH HOVER GLOW EFFECTS -->
-<div align="center">
-  <h3>⚙️ CYBERNETIC ARSENAL</h3>
-  
-  <!-- Frontend -->
-  <details open>
-    <summary><b>🔮 NEURAL INTERFACE (FRONTEND)</b></summary>
-    <br>
-    <div class="tech-badge-container">
-      <img class="tech-badge" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="React"/>
-      <img class="tech-badge" src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-      <img class="tech-badge" src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js"/>
-      <img class="tech-badge" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript"/>
-      <img class="tech-badge" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?style=for-the-badge&logo=TailwindCSS&logoColor=white" alt="Tailwind CSS"/>
-      <img class="tech-badge" src="https://img.shields.io/badge/SASS-CC6699.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS"/>
-    </div>
-  </details>
-
-  <!-- Backend -->
-  <details open>
-    <summary><b>🧠 QUANTUM CORE (BACKEND)</b></summary>
-    <br>
-    <div class="tech-badge-container">
-      <img class="tech-badge" src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-      <img class="tech-badge" src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" alt="Express"/>
-      <img class="tech-badge" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="Python"/>
-      <img class="tech-badge" src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white" alt="Django"/>
-      <img class="tech-badge" src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white" alt="Flask"/>
-    </div>
-  </details>
-
-  <!-- Database -->
-  <details open>
-    <summary><b>💾 MEMORY MATRIX (DATABASE)</b></summary>
-    <br>
-    <div class="tech-badge-container">
-      <img class="tech-badge" src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" alt="MongoDB"/>
-      <img class="tech-badge" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="PostgreSQL"/>
-      <img class="tech-badge" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL"/>
-      <img class="tech-badge" src="https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=Redis&logoColor=white" alt="Redis"/>
-    </div>
-  </details>
-
-  <!-- AI/ML -->
-  <details open>
-    <summary><b>🤖 NEURAL NETWORK (AI/ML)</b></summary>
-    <br>
-    <div class="tech-badge-container">
-      <img class="tech-badge" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/>
-      <img class="tech-badge" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch"/>
-      <img class="tech-badge" src="https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white" alt="OpenAI"/>
-      <img class="tech-badge" src="https://img.shields.io/badge/Hugging_Face-FFDD00.svg?style=for-the-badge" alt="Hugging Face"/>
-      <img class="tech-badge" src="https://img.shields.io/badge/LangChain-00FFFF.svg?style=for-the-badge" alt="LangChain"/>
-    </div>
-  </details>
-</div>
-
-<!-- ANIMATED HOLOGRAPHIC SEPARATOR -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%" alt="">
-
-<!-- PROJECTS SHOWCASE WITH HOLOGRAPHIC ANIMATIONS -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3kwNzA0ZjZsMjFpNXg0c2Vud3pxcTd0ZGJxb3BkenlsYjYxN3YxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25" height="25" alt="">
-  <span style="color:#00FFFF"> ACTIVE SIMULATIONS </span>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3kwNzA0ZjZsMjFpNXg0c2Vud3pxcTd0ZGJxb3BkenlsYjYxN3YxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25" height="25" alt="">
-</h2>
-
-<!-- ENHANCED PROJECT CARDS WITH 3D HOVER EFFECTS -->
 <div align="center">
 <table>
 <tr>
-<td width="50%">
-<h3 align="center">🌐 WE DIGITAL MITRA</h3>
-<div align="center">
-<a href="#" target="_blank">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3htY3pjeG5sdnRwZXF1YmwweDcwaXo0dDNnbWtwaHl0M3JjdmxqNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="100%" alt="Project"/>
-</a>
-<p><strong>A Cybernetic Digital Marketing Platform – Merging AI Analytics with Interstellar Outreach.</strong></p>
-<p>Advanced Algorithms + Neural Networks Powering Next-Gen Business Growth.</p>
-</div>
-</td>
-<td width="50%">
-<h3 align="center">⚡ JARVIS (RTX⚡)</h3>
-<div align="center">
-<a href="#" target="_blank">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnJ4NDN5MnZsaHhiMHV5dnJ5NHRzOWszMGZ1bTQ0Z2xoZHE2dnEyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XEbAN657lIVMRwa1e2/giphy.gif" width="100%" alt="Project"/>
-</a>
-<p><strong>An AI Co-Pilot with Reasoning, Thinking, and Xtreme Execution Protocols!</strong></p>
-<p>Next-Gen Assistant with Advanced Language Understanding and Execution Capabilities.</p>
-</div>
-</td>
+  <td width="50%"><h3 align="center">🏢 WDM Autonomous Agents</h3><p align="center">6-agent system running agency 24/7</p><p align="center"><a href="https://github.com/PsProsen-Dev/wdm-autonomous-agents"><img src="https://img.shields.io/github/stars/PsProsen-Dev/wdm-autonomous-agents?style=social" alt="Stars"/></a></p></td>
+  <td width="50%"><h3 align="center">🏭 WDM Client Pipeline</h3><p align="center">5-stage autonomous pipeline</p><p align="center"><a href="https://github.com/PsProsen-Dev/wdm-client-pipeline"><img src="https://img.shields.io/github/stars/PsProsen-Dev/wdm-client-pipeline?style=social" alt="Stars"/></a></p></td>
 </tr>
 <tr>
-<td width="50%">
-<h3 align="center">🧪 CODE FORGE</h3>
-<div align="center">
-<a href="#" target="_blank">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmVsYXJzYnEyOG00Y3p6djFnY3RlY2NxbnphbHQyeGFibjVxbGZ0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="100%" alt="Project"/>
-</a>
-<p><strong>Repository of Futuristic Scripts – Python, JS, and AI Prototypes.</strong></p>
-<p>Open-Source Innovation Lab Pushing Boundaries of What's Possible.</p>
-</div>
-</td>
-<td width="50%">
-<h3 align="center">🔮 NEURAL HORIZON</h3>
-<div align="center">
-<a href="#" target="_blank">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWU0djVzaGhueWNmemFtdnh0OTlvNGh2aXY1NnRxM3ppY2M1ZGgzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0He4nkyI5cMhXzvW/giphy.gif" width="100%" alt="Project"/>
-</a>
-<p><strong>Experimental Projects Pushing the Edge of Human-Tech Symbiosis.</strong></p>
-<p>Exploring the Frontier Where Human Creativity Meets Machine Intelligence.</p>
-</div>
-</td>
+  <td width="50%"><h3 align="center">🗺️ Google Maps Lead Scraper</h3><p align="center">Lead discovery + CRM</p><p align="center"><a href="https://github.com/PsProsen-Dev/google-maps-lead-scraper"><img src="https://img.shields.io/github/stars/PsProsen-Dev/google-maps-lead-scraper?style=social" alt="Stars"/></a></p></td>
+  <td width="50%"><h3 align="center">🇮🇳 JustDial Lead API</h3><p align="center">Hyperlocal lead intelligence</p><p align="center"><a href="https://github.com/PsProsen-Dev/justdial-lead-api"><img src="https://img.shields.io/github/stars/PsProsen-Dev/justdial-lead-api?style=social" alt="Stars"/></a></p></td>
+</tr>
+<tr>
+  <td width="50%"><h3 align="center">📱 Local LLM on Android</h3><p align="center">Termux + Ollama</p><p align="center"><a href="https://github.com/PsProsen-Dev/ollama-termux-android"><img src="https://img.shields.io/github/stars/PsProsen-Dev/ollama-termux-android?style=social" alt="Stars"/></a></p></td>
+  <td width="50%"><h3 align="center">🤖 Pabbly AI Workflow</h3><p align="center">Multi-step automation</p><p align="center"><a href="https://github.com/PsProsen-Dev/pabbly-ai-workflow"><img src="https://img.shields.io/github/stars/PsProsen-Dev/pabbly-ai-workflow?style=social" alt="Stars"/></a></p></td>
+</tr>
+<tr>
+  <td width="50%"><h3 align="center">🔌 REST API Connectors</h3><p align="center">API integration library</p><p align="center"><a href="https://github.com/PsProsen-Dev/rest-api-connectors"><img src="https://img.shields.io/github/stars/PsProsen-Dev/rest-api-connectors?style=social" alt="Stars"/></a></p></td>
+  <td width="50%"><h3 align="center">🧠 AI Agent Swarm</h3><p align="center">Multi-agent orchestration</p><p align="center"><a href="https://github.com/PsProsen-Dev/ai-agent-swarm"><img src="https://img.shields.io/github/stars/PsProsen-Dev/ai-agent-swarm?style=social" alt="Stars"/></a></p></td>
+</tr>
+<tr>
+  <td width="50%"><h3 align="center">🚀 WDM Agency Starter</h3><p align="center">Next.js + AI</p><p align="center"><a href="https://github.com/PsProsen-Dev/wdm-agency-starter"><img src="https://img.shields.io/github/stars/PsProsen-Dev/wdm-agency-starter?style=social" alt="Stars"/></a></p></td>
+  <td width="50%"><h3 align="center">🌐 Portfolio Website</h3><p align="center">Next.js + Framer Motion</p><p align="center"><a href="https://github.com/PsProsen-Dev/portfolio-website"><img src="https://img.shields.io/github/stars/PsProsen-Dev/portfolio-website?style=social" alt="Stars"/></a></p></td>
 </tr>
 </table>
 </div>
 
-<!-- QUANTUM SIGNATURES WITH ADVANCED VISUALIZATION -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%" alt="">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%" alt="Separator"/>
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJteGYwbWtlMHZ1cTVtcGJienl0MWd4aGUyajU5and1YWllNm1leiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif" width="40" height="40" alt="">
-  <span style="color:#00FFFF"> QUANTUM SIGNATURES </span>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJteGYwbWtlMHZ1cTVtcGJienl0MWd4aGUyajU5and1YWllNm1leiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif" width="40" height="40" alt="">
-</h2>
+## 💼 ABOUT ME
 
-<!-- ENHANCED ACTIVITY GRAPH WITH HOLOGRAPHIC EFFECT -->
+```python
+class ProsenjitPaul:
+    name = "Prosenjit Paul"
+    title = "AI Automation Entrepreneur"
+    company = "We Digital Mitra (WDM)"
+    location = "Kolkata, West Bengal, India"
+    mission = "Building autonomous AI systems that run without human intervention"
+```
+
+> *"I did not learn AI in a classroom. I learned it by building a company that runs without me."*
+
+## 🛠️ TECH STACK
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,express,tailwind,postgres,mongodb,docker,git,github&perline=12" alt="Tech Stack"/>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%" alt="Separator"/>
+
+## 📊 GITHUB STATS
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PsProsen-Dev&theme=react-dark&bg_color=0D1117&color=00FFFF&line=FF00FF&point=FFFFFF&area=true&hide_border=false" width="100%" alt="Activity Graph"/>
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PsProsen-Dev&layout=compact&theme=tokyonight&border_color=00FFFF&title_color=FF00FF&text_color=FFFFFF&hide_border=false&bg_color=0D1117&langs_count=8" alt="Top Languages"/></td>
+      <td><img src="https://github-profile-trophy.vercel.app/?username=PsProsen-Dev&theme=radical&no-frame=true&no-bg=false&row=1&column=7" alt="Trophy Stats"/></td>
+    </tr>
+  </table>
 </div>
 
-<!-- ENHANCED STATISTICS DISPLAY -->
-<table align="center">
-  <tr>
-    <td>
-      <!-- Top Languages & Core Signatures -->
-<table align="center" style="border: none; background-color: transparent;">
-  <tr>
-    <td width="50%" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PsProsen-Dev&layout=compact&theme=tokyonight&border_color=00FFFF&title_color=FF00FF&text_color=FFFFFF&hide_border=false&bg_color=0D1117&langs_count=8" alt="Top Languages"/>
-    </td>
-    </td>
-    <td>
-      <h3>⚡ CORE SIGNATURES</h3>
-      <ul>
-        <li>🧠 Integrated <b>Jarvis (RTX⚡)</b> – AI Co-Pilot with R-T-X Protocols!</li>
-        <li>🔮 Converting Limitations into Launch Sequences</li>
-        <li>⚛️ Quantum-Level Problem Solving and Implementation</li>
-        <li>🌌 Open-Source is my Superpower!</li>
-        <li>🚀 Fueled by Infinite Curiosity and Zero-Point Energy</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%" alt="Separator"/>
 
-<!-- HOLOGRAPHIC SEPARATOR -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%" alt="">
+## 📬 GET IN TOUCH
 
-<!-- ENHANCED CONTACT SECTION -->
 <div align="center">
-  <h3>
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzhjem5xeTJtYTQ5NHEyaXUwbDQzMXVmbnE4MXBuOXBhY25tdnhpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ln7z2eWriiQAllfVcn/giphy.gif" width="25" alt="">
-    TRANSMISSION COORDINATES
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzhjem5xeTJtYTQ5NHEyaXUwbDQzMXVmbnE4MXBuOXBhY25tdnhpdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ln7z2eWriiQAllfVcn/giphy.gif" width="25" alt="">
-  </h3>
-  
-  <!-- ENHANCED HOLOGRAPHIC CONTACT SECTION -->
-  <div class="contact-badges">
-    <img src="https://img.shields.io/badge/Origin-Jalpaiguri%2C%20WB%2C%20India-00FFFF?style=for-the-badge&logo=GoogleMaps&logoColor=black"  alt="Origin: Jalpaiguri, WB, India"/>
-    <img src="https://img.shields.io/badge/Identity-He%2FHim-FF00FF?style=for-the-badge&logo=user&logoColor=black"  alt="Identity: He/Him"/>
-    <img src="https://img.shields.io/badge/System-We%20Digital%20Mitra-FF5733?style=for-the-badge&logo=rocket&logoColor=white"  alt="System: We Digital Mitra"/>
-  </div>
+  <img src="https://img.shields.io/badge/📍_Location-Kolkata,_WB,_India-00FFFF?style=for-the-badge&logo=GoogleMaps&logoColor=black" alt="Location"/>
+  <img src="https://img.shields.io/badge/👤_Pronouns-He/Him-FF00FF?style=for-the-badge&logo=user&logoColor=black" alt="Pronouns"/>
+  <img src="https://img.shields.io/badge/🏢_Company-We_Digital_Mitra-FF5733?style=for-the-badge&logo=rocket&logoColor=white" alt="Company"/>
+  <br/><br/>
+  <a href="mailto:prosen@wedigitalmitra.com"><img src="https://img.shields.io/badge/📧_Email-prosen@wedigitalmitra.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:psprosen.me@gmail.com"><img src="https://img.shields.io/badge/📧_Personal-psprosen.me@gmail.com-4285F4?style=for-the-badge&logo=Gmail&logoColor=white" alt="Personal Email"/></a>
 </div>
 
-<!-- FINAL MESSAGE WITH PULSATING EFFECT -->
-<div align="center">
-  <h3 class="neural-link">📡 NEURAL LINK ESTABLISHED...</h3>
-  <p class="quote"><i>"The Future isn't Coming – I'm Coding it Now!"</i> – Ps Prosen</p>
-</div>
+<p align="center"><i><b>"The Future isn't Coming – I'm Coding it Now!"</b></i> – Prosenjit Paul</p>
 
-<!-- DYNAMIC GRADIENT FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&text=SYSTEM%20ONLINE&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=70&color=gradient&customColorList=0,2,2,5,30" width="100%" alt="Footer: System Online"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&text=SYSTEM%20ONLINE&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=70&color=gradient&customColorList=0,2,2,5,30" width="100%" alt="Footer"/>
