@@ -165,7 +165,15 @@ OPS TOOLING   : GitHub, Docker, local AI, cloud workflows
 </p>
 
 <p align="center">
-  <img src="./assets/contribution-snake.svg" width="100%" alt="Contribution snake animation"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=36&text=CONTRIBUTION%20ARENA&fontSize=16&fontColor=FFFFFF&color=0:00F5FF,50:7C3AED,100:FF00FF" width="100%" alt="Contribution Arena"/>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="./assets/github-contribution-grid-snake.svg"/>
+    <img src="./assets/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake animation"/>
+  </picture>
 </p>
 
 ---
