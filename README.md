@@ -1,104 +1,125 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&section=header&text=Prosenjit%20Paul&fontSize=58&animation=fadeIn&fontColor=fff&fontAlignY=38&desc=AI%20Automation%20Entrepreneur%20%7C%20Founder%20%40%20We%20Digital%20Mitra&color=gradient&customColorList=0,2,2,5,30" width="100%" alt="Prosenjit Paul - AI Automation Entrepreneur"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&text=PROSENJIT%20PAUL&fontSize=62&fontAlignY=35&animation=fadeIn&fontColor=FFFFFF&desc=AI%20Automation%20Entrepreneur%20%7C%20Founder%20%40%20We%20Digital%20Mitra%20%7C%20Kolkata%2C%20India&descAlignY=55&color=gradient&customColorList=0,2,2,5,30" width="100%" alt="Prosenjit Paul header"/>
 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=26&duration=2800&pause=700&color=00F5FF&center=true&vCenter=true&width=900&lines=I+Build+AI+Systems+That+Work+After+Logout;Autonomous+Agents+%7C+Lead+Engines+%7C+Ops+Automation;Founder+Mode%3A+Ship+Fast%2C+Automate+Faster" alt="Typing intro"/>
+  </a>
+  <br/>
   <a href="https://github.com/PsProsen-Dev"><img src="https://img.shields.io/badge/GitHub-PsProsen--Dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://linkedin.com/in/psprosen"><img src="https://img.shields.io/badge/LinkedIn-psprosen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:prosen@wedigitalmitra.com"><img src="https://img.shields.io/badge/Email-prosen%40wedigitalmitra.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:prosen@wedigitalmitra.com"><img src="https://img.shields.io/badge/Work_Email-prosen%40wedigitalmitra.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Work email"/></a>
 </div>
 
 ---
 
-## 🚀 What I Build
+## SYSTEM IDENTITY
 
-I build autonomous AI systems for agencies, local businesses, lead generation, workflow automation, and agentic operations.
-
-```python
-class ProsenjitPaul:
-    name = "Prosenjit Paul"
-    title = "AI Automation Entrepreneur"
-    company = "We Digital Mitra (WDM)"
-    location = "Kolkata, West Bengal, India"
-    focus = ["AI agents", "automation pipelines", "lead intelligence", "local-first AI"]
-    mission = "Build systems that keep working even when humans step away"
+```text
+NAME        : Prosenjit Paul
+HANDLE      : PsProsen-Dev
+ROLE        : AI Automation Entrepreneur
+COMPANY     : We Digital Mitra (WDM)
+BASE        : Kolkata, West Bengal, India
+BUILD MODE  : Autonomous agents, lead intelligence, business automation
+CORE IDEA   : If a task repeats, it should become a system.
 ```
 
-> *"I did not learn AI in a classroom. I learned it by building a company that runs without me."*
+I build practical AI automation systems for agency operations, local business growth, lead generation, workflow orchestration, and local-first AI experiments. The goal is simple: fewer manual loops, faster execution, and systems that keep moving when the founder steps away.
 
 ---
 
-## 🧠 Operating Philosophy
-
-- **Automation first:** turn repeatable business work into reliable systems.
-- **Agentic by design:** use focused AI agents for research, execution, QA, and follow-up.
-- **Practical over flashy:** ship workflows that save time, capture leads, and reduce manual ops.
-- **Local + cloud:** combine lightweight local tooling with scalable web automation.
-
----
-
-## 🏗️ Featured Projects
+## COMMAND CENTER
 
 <table>
   <tr>
-    <td width="50%">
-      <b>🏢 WDM Autonomous Agents</b><br/>
-      6-agent system running agency operations 24/7.<br/>
-      <a href="https://github.com/PsProsen-Dev/wdm-autonomous-agents">View repository</a>
+    <td width="33%">
+      <b>01 / Autonomous Ops</b><br/>
+      Agent workflows for repeatable agency and business operations.
     </td>
-    <td width="50%">
-      <b>🏭 WDM Client Pipeline</b><br/>
-      5-stage autonomous pipeline for client acquisition and delivery.<br/>
-      <a href="https://github.com/PsProsen-Dev/wdm-client-pipeline">View repository</a>
+    <td width="33%">
+      <b>02 / Lead Engines</b><br/>
+      Google Maps, JustDial, CRM-ready scraping, and hyperlocal intelligence.
     </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <b>🗺️ Google Maps Lead Scraper</b><br/>
-      Lead discovery and CRM-ready business intelligence.<br/>
-      <a href="https://github.com/PsProsen-Dev/google-maps-lead-scraper">View repository</a>
-    </td>
-    <td width="50%">
-      <b>🇮🇳 JustDial Lead API</b><br/>
-      Hyperlocal lead intelligence for Indian businesses.<br/>
-      <a href="https://github.com/PsProsen-Dev/justdial-lead-api">View repository</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <b>📱 Local LLM on Android</b><br/>
-      Termux + Ollama workflow for local AI experiments.<br/>
-      <a href="https://github.com/PsProsen-Dev/ollama-termux-android">View repository</a>
-    </td>
-    <td width="50%">
-      <b>🤖 Pabbly AI Workflow</b><br/>
-      Multi-step automation for no-code and low-code operations.<br/>
-      <a href="https://github.com/PsProsen-Dev/pabbly-ai-workflow">View repository</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <b>🔌 REST API Connectors</b><br/>
-      Integration utilities for connecting business tools and services.<br/>
-      <a href="https://github.com/PsProsen-Dev/rest-api-connectors">View repository</a>
-    </td>
-    <td width="50%">
-      <b>🧠 AI Agent Swarm</b><br/>
-      Multi-agent orchestration patterns for AI workflows.<br/>
-      <a href="https://github.com/PsProsen-Dev/ai-agent-swarm">View repository</a>
+    <td width="33%">
+      <b>03 / AI Workflows</b><br/>
+      No-code, low-code, API, and custom automation pipelines.
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ Tech Stack
+## FEATURED SYSTEMS
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>WDM Autonomous Agents</h3>
+      <p>6-agent system for agency operations.</p>
+      <a href="https://github.com/PsProsen-Dev/wdm-autonomous-agents">Open repository</a>
+    </td>
+    <td width="50%">
+      <h3>WDM Client Pipeline</h3>
+      <p>5-stage autonomous pipeline for client acquisition and delivery.</p>
+      <a href="https://github.com/PsProsen-Dev/wdm-client-pipeline">Open repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Google Maps Lead Scraper</h3>
+      <p>Lead discovery plus CRM-ready business intelligence.</p>
+      <a href="https://github.com/PsProsen-Dev/google-maps-lead-scraper">Open repository</a>
+    </td>
+    <td width="50%">
+      <h3>JustDial Lead API</h3>
+      <p>Hyperlocal lead intelligence for Indian businesses.</p>
+      <a href="https://github.com/PsProsen-Dev/justdial-lead-api">Open repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Local LLM on Android</h3>
+      <p>Termux + Ollama setup for portable local AI experiments.</p>
+      <a href="https://github.com/PsProsen-Dev/ollama-termux-android">Open repository</a>
+    </td>
+    <td width="50%">
+      <h3>Pabbly AI Workflow</h3>
+      <p>Multi-step automation for no-code and low-code operations.</p>
+      <a href="https://github.com/PsProsen-Dev/pabbly-ai-workflow">Open repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>REST API Connectors</h3>
+      <p>API integration utilities for connecting business tools.</p>
+      <a href="https://github.com/PsProsen-Dev/rest-api-connectors">Open repository</a>
+    </td>
+    <td width="50%">
+      <h3>AI Agent Swarm</h3>
+      <p>Multi-agent orchestration patterns for AI workflows.</p>
+      <a href="https://github.com/PsProsen-Dev/ai-agent-swarm">Open repository</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## BUILD STACK
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,express,tailwind,postgres,mongodb,docker,git,github&perline=13" alt="Python, JavaScript, TypeScript, React, Next.js, Node.js, Express, Tailwind CSS, PostgreSQL, MongoDB, Docker, Git, GitHub"/>
 </div>
 
+```text
+AI AUTOMATION : agents, workflows, scraping, lead systems
+WEB SYSTEMS   : React, Next.js, Node.js, APIs
+DATA LAYER    : PostgreSQL, MongoDB, CRM-ready pipelines
+OPS TOOLING   : GitHub, Docker, local AI, cloud workflows
+```
+
 ---
 
-## 📊 GitHub Signal
+## GITHUB SIGNAL
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PsProsen-Dev&show_icons=true&theme=radical&border_color=00FFFF&title_color=FF00FF&icon_color=00FFFF&ring_color=FF00FF&text_color=FFFFFF&hide_border=false&bg_color=0D1117" alt="GitHub stats"/>
@@ -107,19 +128,19 @@ class ProsenjitPaul:
 
 ---
 
-## 📬 Connect
+## OPEN CHANNEL
 
 <div align="center">
-  <a href="mailto:prosen@wedigitalmitra.com"><img src="https://img.shields.io/badge/Work_Email-prosen%40wedigitalmitra.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Work email"/></a>
-  <a href="mailto:psprosen.me@gmail.com"><img src="https://img.shields.io/badge/Personal_Email-psprosen.me%40gmail.com-4285F4?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal email"/></a>
-  <a href="https://linkedin.com/in/psprosen"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:prosen@wedigitalmitra.com"><img src="https://img.shields.io/badge/Business-prosen%40wedigitalmitra.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Business email"/></a>
+  <a href="mailto:psprosen.me@gmail.com"><img src="https://img.shields.io/badge/Personal-psprosen.me%40gmail.com-4285F4?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal email"/></a>
+  <a href="https://linkedin.com/in/psprosen"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </div>
 
-<p align="center">
-  <i><b>"The Future isn't Coming - I'm Coding it Now!"</b></i><br/>
-  <b>System Online.</b>
-</p>
+<br/>
 
 <div align="center">
+  <b>"The Future isn't Coming - I'm Coding it Now."</b>
+  <br/>
+  <sub>Founder mode active. Systems online.</sub>
   <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&fontColor=fff&animation=fadeIn&color=gradient&customColorList=0,2,2,5,30" width="100%" alt="Footer"/>
 </div>
