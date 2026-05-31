@@ -20,7 +20,7 @@
   <b>&nbsp; Hey there! I'm Prosen — I turn repetitive tasks into autonomous systems.</b>
   <br/><br/>
 
-  <!-- ━━━━━━━━━━ SOCIAL BADGES WITH GLOW ━━━━━━━━━━ -->
+  <!-- ━━━━━━━━━━ SOCIAL BADGES ━━━━━━━━━━ -->
   <a href="https://github.com/PsProsen-Dev"><img src="https://img.shields.io/badge/GitHub-PsProsen--Dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
   <a href="https://linkedin.com/in/psprosen"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
   <a href="mailto:prosen@wedigitalmitra.com"><img src="https://img.shields.io/badge/Email-prosen%40wedigitalmitra.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
@@ -139,62 +139,38 @@ const prosen = {
 <!-- Row 1: Flagship Projects -->
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">
-        <img src="https://img.shields.io/badge/⚡-JarvisOS-FF006E?style=flat-square&labelColor=0D1117" alt="JarvisOS"/>
-      </h3>
-      <div align="center">
-        <a href="https://github.com/PsProsen-Dev/JarvisOS">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=PsProsen-Dev&repo=JarvisOS&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF006E&text_color=C9D1D9" width="100%" alt="JarvisOS"/>
-        </a>
-        <br/>
-        <img src="https://img.shields.io/badge/Windows_11-AME_Playbook-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows"/>
-        <img src="https://img.shields.io/github/stars/PsProsen-Dev/JarvisOS?style=flat-square&color=FFD700&labelColor=0D1117" alt="Stars"/>
-      </div>
+    <td width="50%" align="center">
+      <img src="https://img.shields.io/badge/⚡-JarvisOS-FF006E?style=for-the-badge&labelColor=0D1117" alt="JarvisOS"/><br/><br/>
+      <b>Custom Windows 11 AME Playbook</b><br/>
+      <sub>Jarvis (RTX⚡) — debloated, optimized, privacy-first Windows</sub><br/><br/>
+      <a href="https://github.com/PsProsen-Dev/JarvisOS"><img src="https://img.shields.io/badge/Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/></a>
+      <img src="https://img.shields.io/github/stars/PsProsen-Dev/JarvisOS?style=for-the-badge&color=FFD700&labelColor=0D1117" alt="Stars"/>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">
-        <img src="https://img.shields.io/badge/🦞-OpenClaw_On_Android-00D9FF?style=flat-square&labelColor=0D1117" alt="OpenClaw"/>
-      </h3>
-      <div align="center">
-        <a href="https://github.com/PsProsen-Dev/OpenClaw-On-Android">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=PsProsen-Dev&repo=OpenClaw-On-Android&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF006E&text_color=C9D1D9" width="100%" alt="OpenClaw-On-Android"/>
-        </a>
-        <br/>
-        <img src="https://img.shields.io/badge/Android-AI_Server-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/>
-        <img src="https://img.shields.io/github/stars/PsProsen-Dev/OpenClaw-On-Android?style=flat-square&color=FFD700&labelColor=0D1117" alt="Stars"/>
-        <img src="https://img.shields.io/github/forks/PsProsen-Dev/OpenClaw-On-Android?style=flat-square&color=7C3AED&labelColor=0D1117" alt="Forks"/>
-      </div>
+    <td width="50%" align="center">
+      <img src="https://img.shields.io/badge/🦞-OpenClaw_On_Android-00D9FF?style=for-the-badge&labelColor=0D1117" alt="OpenClaw"/><br/><br/>
+      <b>24/7 AI Server on Android</b><br/>
+      <sub>One command, zero hassle. No proot, no Ubuntu, pure Termux.</sub><br/><br/>
+      <a href="https://github.com/PsProsen-Dev/OpenClaw-On-Android"><img src="https://img.shields.io/badge/Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/></a>
+      <img src="https://img.shields.io/github/stars/PsProsen-Dev/OpenClaw-On-Android?style=for-the-badge&color=FFD700&labelColor=0D1117" alt="Stars"/>
+      <img src="https://img.shields.io/github/forks/PsProsen-Dev/OpenClaw-On-Android?style=for-the-badge&color=7C3AED&labelColor=0D1117" alt="Forks"/>
     </td>
   </tr>
 </table>
 
-<!-- Row 2: AI Systems -->
+<!-- Row 2: AI Agent Systems -->
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">
-        <img src="https://img.shields.io/badge/🤖-WDM_Autonomous_Agents-7C3AED?style=flat-square&labelColor=0D1117" alt="Agents"/>
-      </h3>
-      <div align="center">
-        <a href="https://github.com/PsProsen-Dev/wdm-autonomous-agents">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=PsProsen-Dev&repo=wdm-autonomous-agents&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF006E&text_color=C9D1D9" width="100%" alt="WDM Autonomous Agents"/>
-        </a>
-        <br/>
-        <img src="https://img.shields.io/badge/6_Agent-System-00D9FF?style=flat-square&labelColor=0D1117" alt="6 Agent"/>
-      </div>
+    <td width="50%" align="center">
+      <img src="https://img.shields.io/badge/🤖-WDM_Autonomous_Agents-7C3AED?style=for-the-badge&labelColor=0D1117" alt="Agents"/><br/><br/>
+      <b>6-Agent System for Agency Ops</b><br/>
+      <sub>Autonomous agents for repeatable business operations</sub><br/><br/>
+      <a href="https://github.com/PsProsen-Dev/wdm-autonomous-agents"><img src="https://img.shields.io/badge/Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/></a>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">
-        <img src="https://img.shields.io/badge/🔗-WDM_Client_Pipeline-FF006E?style=flat-square&labelColor=0D1117" alt="Pipeline"/>
-      </h3>
-      <div align="center">
-        <a href="https://github.com/PsProsen-Dev/wdm-client-pipeline">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=PsProsen-Dev&repo=wdm-client-pipeline&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF006E&text_color=C9D1D9" width="100%" alt="WDM Client Pipeline"/>
-        </a>
-        <br/>
-        <img src="https://img.shields.io/badge/5_Stage-Autonomous-FF006E?style=flat-square&labelColor=0D1117" alt="5 Stage"/>
-      </div>
+    <td width="50%" align="center">
+      <img src="https://img.shields.io/badge/🔗-WDM_Client_Pipeline-FF006E?style=for-the-badge&labelColor=0D1117" alt="Pipeline"/><br/><br/>
+      <b>5-Stage Autonomous Pipeline</b><br/>
+      <sub>Client acquisition and delivery automation</sub><br/><br/>
+      <a href="https://github.com/PsProsen-Dev/wdm-client-pipeline"><img src="https://img.shields.io/badge/Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/></a>
     </td>
   </tr>
 </table>
@@ -202,25 +178,17 @@ const prosen = {
 <!-- Row 3: Lead Intelligence -->
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">
-        <img src="https://img.shields.io/badge/🗺️-Google_Maps_Lead_Scraper-00D9FF?style=flat-square&labelColor=0D1117" alt="Maps"/>
-      </h3>
-      <div align="center">
-        <a href="https://github.com/PsProsen-Dev/google-maps-lead-scraper">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=PsProsen-Dev&repo=google-maps-lead-scraper&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF006E&text_color=C9D1D9" width="100%" alt="Google Maps Lead Scraper"/>
-        </a>
-      </div>
+    <td width="50%" align="center">
+      <img src="https://img.shields.io/badge/🗺️-Google_Maps_Lead_Scraper-00D9FF?style=for-the-badge&labelColor=0D1117" alt="Maps"/><br/><br/>
+      <b>Lead Discovery + CRM-ready Intelligence</b><br/>
+      <sub>Google Maps business data extraction at scale</sub><br/><br/>
+      <a href="https://github.com/PsProsen-Dev/google-maps-lead-scraper"><img src="https://img.shields.io/badge/Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/></a>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">
-        <img src="https://img.shields.io/badge/🇮🇳-JustDial_Lead_API-7C3AED?style=flat-square&labelColor=0D1117" alt="JustDial"/>
-      </h3>
-      <div align="center">
-        <a href="https://github.com/PsProsen-Dev/justdial-lead-api">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=PsProsen-Dev&repo=justdial-lead-api&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF006E&text_color=C9D1D9" width="100%" alt="JustDial Lead API"/>
-        </a>
-      </div>
+    <td width="50%" align="center">
+      <img src="https://img.shields.io/badge/🇮🇳-JustDial_Lead_API-7C3AED?style=for-the-badge&labelColor=0D1117" alt="JustDial"/><br/><br/>
+      <b>Hyperlocal Lead Intelligence</b><br/>
+      <sub>Indian business data for targeted outreach</sub><br/><br/>
+      <a href="https://github.com/PsProsen-Dev/justdial-lead-api"><img src="https://img.shields.io/badge/Open_Repo-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/></a>
     </td>
   </tr>
 </table>
@@ -228,28 +196,22 @@ const prosen = {
 <!-- Row 4: More Systems -->
 <table>
   <tr>
-    <td width="33%" valign="top" align="center">
-      <h3>
-        <img src="https://img.shields.io/badge/📱-Ollama_Termux-00D9FF?style=flat-square&labelColor=0D1117" alt="Ollama"/>
-      </h3>
+    <td width="33%" align="center">
+      <img src="https://img.shields.io/badge/📱-Ollama_Termux-00D9FF?style=flat-square&labelColor=0D1117" alt="Ollama"/><br/><br/>
       <a href="https://github.com/PsProsen-Dev/ollama-termux-android">
         <img src="https://img.shields.io/badge/Local_LLM-Android-3DDC84?style=for-the-badge&labelColor=0D1117&logo=android&logoColor=white" alt="Local LLM"/>
       </a>
       <br/><sub>Portable AI on your phone</sub>
     </td>
-    <td width="33%" valign="top" align="center">
-      <h3>
-        <img src="https://img.shields.io/badge/🔄-Pabbly_AI-FF006E?style=flat-square&labelColor=0D1117" alt="Pabbly"/>
-      </h3>
+    <td width="33%" align="center">
+      <img src="https://img.shields.io/badge/🔄-Pabbly_AI-FF006E?style=flat-square&labelColor=0D1117" alt="Pabbly"/><br/><br/>
       <a href="https://github.com/PsProsen-Dev/pabbly-ai-workflow">
         <img src="https://img.shields.io/badge/No_Code-Automation-FF006E?style=for-the-badge&labelColor=0D1117" alt="No-Code"/>
       </a>
       <br/><sub>Multi-step no-code workflows</sub>
     </td>
-    <td width="33%" valign="top" align="center">
-      <h3>
-        <img src="https://img.shields.io/badge/🐝-AI_Agent_Swarm-7C3AED?style=flat-square&labelColor=0D1117" alt="Swarm"/>
-      </h3>
+    <td width="33%" align="center">
+      <img src="https://img.shields.io/badge/🐝-AI_Agent_Swarm-7C3AED?style=flat-square&labelColor=0D1117" alt="Swarm"/><br/><br/>
       <a href="https://github.com/PsProsen-Dev/ai-agent-swarm">
         <img src="https://img.shields.io/badge/Multi_Agent-Swarm-7C3AED?style=for-the-badge&labelColor=0D1117" alt="Multi-Agent"/>
       </a>
@@ -280,16 +242,22 @@ const prosen = {
   <table>
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=PsProsen-Dev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF006E&text_color=C9D1D9&ring_color=7C3AED&count_private=true&include_all_commits=true" width="100%" alt="GitHub Stats"/>
+        <a href="https://github.com/PsProsen-Dev">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PsProsen-Dev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF006E&text_color=C9D1D9&ring_color=7C3AED&count_private=true&include_all_commits=true" width="100%" alt="GitHub Stats"/>
+        </a>
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=PsProsen-Dev&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=FF006E&currStreakLabel=00D9FF&sideLabels=7C3AED&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=555555" width="100%" alt="GitHub Streak"/>
+        <a href="https://github.com/PsProsen-Dev">
+          <img src="https://streak-stats.demolab.com/?user=PsProsen-Dev&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=FF006E&currStreakLabel=00D9FF&sideLabels=7C3AED&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=555555" width="100%" alt="GitHub Streak"/>
+        </a>
       </td>
     </tr>
   </table>
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PsProsen-Dev&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" width="350px" alt="Top Languages"/>
+  <a href="https://github.com/PsProsen-Dev">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PsProsen-Dev&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" width="350px" alt="Top Languages"/>
+  </a>
 
   <br/><br/>
 
@@ -337,7 +305,9 @@ const prosen = {
 </h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PsProsen-Dev&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%" alt="GitHub Trophies"/>
+  <a href="https://github.com/PsProsen-Dev">
+    <img src="https://github-profile-trophy.vercel.app/?username=PsProsen-Dev&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%" alt="GitHub Trophies"/>
+  </a>
 </div>
 
 <br/>
@@ -430,7 +400,7 @@ const prosen = {
 
   <br/><br/>
 
-  <!-- Spotify / Quote -->
+  <!-- Dev Quote -->
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" width="600px"/>
 
 </div>
@@ -446,9 +416,7 @@ const prosen = {
   <br/>
 
   <!-- Animated Tagline -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=%22The+Future+isn't+Coming+—+I'm+Coding+it+Now.%22;Founder+mode+active.+Systems+online.+🟢" alt="Footer typing"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=%22The+Future+isn't+Coming+—+I'm+Coding+it+Now.%22;Founder+mode+active.+Systems+online.+🟢" alt="Footer Tagline"/>
 
   <br/><br/>
 
