@@ -50,7 +50,6 @@
       <p>Welcome to my quantum grid! I'm <b>Ps Prosen</b> – a self-evolved coder, AI trailblazer, and digital marketing visionary from Panbari, Jalpaiguri, WB, India.</p>
       <p>As the architect behind <b>We Digital Mitra</b>, I'm engineering a hyper-advanced digital ecosystem designed to revolutionize the online multiverse.</p>
       <p>Think of me as a cybernetic Tony Stark – fusing code, innovation, and strategy into a single unstoppable force that's redefining digital frontiers!</p>
-      
       <h4>⚡ CORE SIGNATURES</h4>
       <ul>
         <li>🧠 Integrated <b>Jarvis (RTX⚡)</b> – AI Co-Pilot with R-T-X Protocols!</li>
