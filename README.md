@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./premium_ai_banner.png" alt="AI Automation Architect Banner" width="100%" style="border-radius: 12px; margin-bottom: 20px;">
-
 <a href="https://github.com/PsProsen-Dev">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Prosenjit+Paul+(aka+Prosen);AI+Automation+Architect;Creator+of+RTXCoreFramework;Engineering+Autonomous+Swarm+Intelligence" alt="Typing SVG" />
 </a>
