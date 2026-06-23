@@ -69,13 +69,6 @@
 ### ✦ Telemetry & Metrics
 
 <div align="center">
-  <!-- Trophies -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=PsProsen-Dev&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-  </a>
-
-  <br><br>
-
   <!-- GitHub Stats (Transparent Glass aesthetic) -->
   <img src="https://github-readme-stats.vercel.app/api?username=PsProsen-Dev&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=00F0FF&icon_color=00F0FF&text_color=A9B1D6" alt="Prosen's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PsProsen-Dev&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=00F0FF&text_color=A9B1D6" alt="Top Languages" />
