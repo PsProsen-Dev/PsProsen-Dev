@@ -1,10 +1,6 @@
 <div align="center">
-  <!-- COSMIC PARALLAX HEADER WITH 3D DEPTH EFFECT -->
-  <a href="https://github.com/PsProsen-Dev">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&random=false&width=635&lines=INITIALIZING...;NEURAL+LINK+ESTABLISHED;WELCOME+TO+PS+PROSEN'S+MATRIX" alt="Typing SVG" />
-  </a>
-  <br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=Ps%20Prosen&fontSize=90&animation=fadeIn&fontColor=fff&fontAlignY=38&desc=ARCHITECT%20OF%20TOMORROW&color=gradient&customColorList=0,2,2,5,30" width="100%" />
+  <!-- BESPOKE CYBERNETIC HEADER WITH CSS ANIMATION -->
+  <img src="./assets/cybernetic_header.svg" width="100%" alt="Cybernetic Matrix Header">
 </div>
 
 <p align="center">
@@ -94,9 +90,8 @@
   </h2>
   
   <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,vue,tailwind,nodejs,express,mongodb,postgres,redis,docker,kubernetes,gcp,aws,tensorflow,pytorch,figma,git&perline=10&theme=dark" alt="Premium Tech Stack"/>
-    </a>
+    <!-- 3D GLASSMORPHISM NEURAL NODE MAP SVG -->
+    <img src="./assets/glass_skills_matrix.svg" width="100%" alt="Premium Tech Stack">
   </p>
 </div>
 

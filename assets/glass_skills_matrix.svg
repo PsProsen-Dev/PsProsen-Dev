@@ -1,0 +1,146 @@
+<svg width="850" height="300" viewBox="0 0 850 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Background Gradient for Glass Effect -->
+    <linearGradient id="glass-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="rgba(0, 255, 255, 0.1)" />
+      <stop offset="100%" stop-color="rgba(255, 0, 255, 0.05)" />
+    </linearGradient>
+
+    <!-- Neural Glow -->
+    <filter id="neural-glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+
+    <!-- Node Glow -->
+    <filter id="node-glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@600&amp;display=swap');
+    
+    .glass-panel {
+      fill: url(#glass-grad);
+      stroke: rgba(0, 255, 255, 0.3);
+      stroke-width: 1;
+      rx: 15;
+    }
+
+    .node-text {
+      font-family: 'Fira Code', monospace;
+      font-size: 16px;
+      font-weight: 600;
+      fill: #E2E8F0;
+      text-anchor: middle;
+      dominant-baseline: middle;
+    }
+    
+    .node-text-highlight {
+      fill: #00FFFF;
+      filter: url(#neural-glow);
+    }
+
+    .neural-link {
+      stroke: rgba(255, 0, 255, 0.5);
+      stroke-width: 1.5;
+      stroke-dasharray: 10;
+      animation: dash 20s linear infinite;
+    }
+
+    .neural-node {
+      fill: #FF00FF;
+      filter: url(#node-glow);
+      animation: throb 2s infinite alternate ease-in-out;
+    }
+    
+    .neural-node-cyan {
+      fill: #00FFFF;
+      filter: url(#node-glow);
+      animation: throb 3s infinite alternate ease-in-out;
+    }
+
+    @keyframes dash {
+      to { stroke-dashoffset: -1000; }
+    }
+
+    @keyframes throb {
+      0% { r: 4; opacity: 0.8; }
+      100% { r: 6; opacity: 1; filter: drop-shadow(0 0 8px #00FFFF); }
+    }
+
+    .HUD-text {
+      font-family: 'Fira Code', monospace;
+      font-size: 12px;
+      fill: rgba(255, 255, 255, 0.4);
+    }
+  </style>
+
+  <!-- Glassmorphism Container -->
+  <rect x="25" y="25" width="800" height="250" class="glass-panel" />
+
+  <!-- Corner HUD Elements -->
+  <path d="M 25 50 L 25 25 L 50 25" fill="none" stroke="#00FFFF" stroke-width="2" />
+  <path d="M 825 50 L 825 25 L 800 25" fill="none" stroke="#FF00FF" stroke-width="2" />
+  <path d="M 25 250 L 25 275 L 50 275" fill="none" stroke="#FF00FF" stroke-width="2" />
+  <path d="M 825 250 L 825 275 L 800 275" fill="none" stroke="#00FFFF" stroke-width="2" />
+
+  <text x="35" y="45" class="HUD-text">NODE_MAP_v2.1</text>
+  <text x="750" y="265" class="HUD-text">STATUS: SECURE</text>
+
+  <!-- Neural Network Connections (Links) -->
+  <g class="neural-link">
+    <!-- Center to Top Left -->
+    <path d="M 425 150 L 200 80" />
+    <!-- Center to Top Right -->
+    <path d="M 425 150 L 650 80" />
+    <!-- Center to Bottom Left -->
+    <path d="M 425 150 L 200 220" />
+    <!-- Center to Bottom Right -->
+    <path d="M 425 150 L 650 220" />
+    <!-- Center to Far Left -->
+    <path d="M 425 150 L 100 150" />
+    <!-- Center to Far Right -->
+    <path d="M 425 150 L 750 150" />
+  </g>
+
+  <!-- Neural Nodes & Text Backgrounds -->
+  
+  <!-- Center Core -->
+  <circle cx="425" cy="150" r="40" fill="rgba(0,0,0,0.5)" stroke="#00FFFF" stroke-width="2" />
+  <circle cx="425" cy="150" r="5" class="neural-node-cyan" />
+  <text x="425" y="150" class="node-text node-text-highlight" style="font-size: 18px; font-weight: 800;">RTX⚡ CORE</text>
+
+  <!-- Top Left Node (Frontend) -->
+  <circle cx="200" cy="80" r="5" class="neural-node" />
+  <rect x="130" y="65" width="140" height="30" rx="5" fill="rgba(0,0,0,0.6)" stroke="#FF00FF" stroke-width="1" />
+  <text x="200" y="80" class="node-text">React &amp; Next.js</text>
+
+  <!-- Top Right Node (Backend/AI) -->
+  <circle cx="650" cy="80" r="5" class="neural-node" />
+  <rect x="570" y="65" width="160" height="30" rx="5" fill="rgba(0,0,0,0.6)" stroke="#FF00FF" stroke-width="1" />
+  <text x="650" y="80" class="node-text">Python &amp; AI/ML</text>
+
+  <!-- Bottom Left Node (Infra) -->
+  <circle cx="200" cy="220" r="5" class="neural-node" />
+  <rect x="110" y="205" width="180" height="30" rx="5" fill="rgba(0,0,0,0.6)" stroke="#FF00FF" stroke-width="1" />
+  <text x="200" y="220" class="node-text">Docker &amp; Kubernetes</text>
+
+  <!-- Bottom Right Node (Systems) -->
+  <circle cx="650" cy="220" r="5" class="neural-node" />
+  <rect x="580" y="205" width="140" height="30" rx="5" fill="rgba(0,0,0,0.6)" stroke="#FF00FF" stroke-width="1" />
+  <text x="650" y="220" class="node-text">Rust &amp; Agents</text>
+
+  <!-- Far Left Node (Design) -->
+  <circle cx="100" cy="150" r="5" class="neural-node-cyan" />
+  <rect x="40" y="135" width="120" height="30" rx="5" fill="rgba(0,0,0,0.6)" stroke="#00FFFF" stroke-width="1" />
+  <text x="100" y="150" class="node-text">UI/UX Figma</text>
+
+  <!-- Far Right Node (Cloud) -->
+  <circle cx="750" cy="150" r="5" class="neural-node-cyan" />
+  <rect x="680" y="135" width="140" height="30" rx="5" fill="rgba(0,0,0,0.6)" stroke="#00FFFF" stroke-width="1" />
+  <text x="750" y="150" class="node-text">Google Workspace</text>
+
+</svg>
