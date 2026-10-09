@@ -10,8 +10,8 @@
 
 <!-- NEON SOCIAL BADGES WITH HOVER GLOW EFFECT -->
 <div align="center">
-  <a href="https://twitter.com/ProsenPs" target="_blank"><img src="https://img.shields.io/badge/Twitter-%2300FFFF.svg?style=for-the-badge&logo=Twitter&logoColor=black" alt="Twitter"/></a>
-  <a href="https://linkedin.com/in/psprosen" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%23FF00FF.svg?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/></a>
+  <a href="https://x.com/PsProsenDev" target="_blank"><img src="https://img.shields.io/badge/X-%2300FFFF.svg?style=for-the-badge&logo=X&logoColor=black" alt="X"/></a>
+  <a href="https://linkedin.com/in/psprosen-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%23FF00FF.svg?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/></a>
   <a href="mailto:psprosen@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-psprosen%40hotmail.com-FF5733?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://calendly.com/psprosen" target="_blank"><img src="https://img.shields.io/badge/QUANTUM_SYNC-4285F4?style=for-the-badge&logo=GoogleCalendar&logoColor=white" alt="Calendly"/></a>
   <a href="https://psprosen.bio/" target="_blank"><img src="https://img.shields.io/badge/DIGITAL_NEXUS-FF0000?style=for-the-badge&logo=CodersRank&logoColor=white" alt="Digital Nexus"/></a>
@@ -102,53 +102,30 @@
 
 <br>
 
-<!-- PROJECTS SHOWCASE WITH HOLOGRAPHIC ANIMATIONS -->
+<!-- FEATURED BUILDS - REAL PROJECTS WITH LIVE STATS -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3kwNzA0ZjZsMjFpNXg0c2Vud3pxcTd0ZGJxb3BkenlsYjYxN3YxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25" height="25">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3kwNzA0ZjZsMjFpNXg0c2Vud3pxcTd0ZGJxb3BkenlsY2Vud3pxcTd0ZGJxb3BkenlsYjYxN3YxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25" height="25">
   <span style="color:#00FFFF"> ACTIVE SIMULATIONS </span>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3kwNzA0ZjZsMjFpNXg0c2Vud3pxcTd0ZGJxb3BkenlsYjYxN3YxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25" height="25">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3kwNzA0ZjZsMjFpNXg0c2Vud3pxcTd0ZGJxb3BkenlsY2Vud3pxcTd0ZGJxb3BkenlsYjYxN3YxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25" height="25">
 </h2>
 
 <div align="center">
-  <table width="100%">
-    <tr>
-      <td width="50%" align="center">
-        <h3>🌐 WE DIGITAL MITRA</h3>
-        <a href="https://wedigitalmitra.com" target="_blank">
-          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3htY3pjeG5sdnRwZXF1YmwweDcwaXo0dDNnbWtwaHl0M3JjdmxqNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="90%" alt="Project" style="border-radius: 8px;"/>
-        </a>
-        <p><strong>A Cybernetic Digital Marketing Platform</strong></p>
-        <p>Merging AI Analytics with Interstellar Outreach.</p>
-      </td>
-      <td width="50%" align="center">
-        <h3>⚡ JARVIS (RTX⚡)</h3>
-        <a href="#" target="_blank">
-          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnJ4NDN5MnZsaHhiMHV5dnJ5NHRzOWszMGZ1bTQ0Z2xoZHE2dnEyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XEbAN657lIVMRwa1e2/giphy.gif" width="90%" alt="Project" style="border-radius: 8px;"/>
-        </a>
-        <p><strong>An AI Co-Pilot Engine</strong></p>
-        <p>Reasoning, Thinking, and Xtreme Execution Protocols.</p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
-        <h3>🧪 CODE FORGE</h3>
-        <a href="#" target="_blank">
-          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmVsYXJzYnEyOG00Y3p6djFnY3RlY2NxbnphbHQyeGFibjVxbGZ0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="90%" alt="Project" style="border-radius: 8px;"/>
-        </a>
-        <p><strong>Repository of Futuristic Scripts</strong></p>
-        <p>Python, JS, and Experimental AI Prototypes.</p>
-      </td>
-      <td width="50%" align="center">
-        <h3>🔮 NEURAL HORIZON</h3>
-        <a href="#" target="_blank">
-          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWU0djVzaGhueWNmemFtdnh0OTlvNGh2aXY1NnRxM3ppY2M1ZGgzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0He4nkyI5cMhXzvW/giphy.gif" width="90%" alt="Project" style="border-radius: 8px;"/>
-        </a>
-        <p><strong>Edge of Human-Tech Symbiosis</strong></p>
-        <p>Exploring the Frontier of Machine Intelligence.</p>
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/PsProsen-Dev/OpenClawOnAndroid">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PsProsen-Dev&repo=OpenClawOnAndroid&theme=radical&border_color=00FFFF&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF&bg_color=0D1117" alt="OpenClawOnAndroid"/>
+  </a>
+  <a href="https://github.com/PsProsen-Dev/RTXCoreFramework">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PsProsen-Dev&repo=RTXCoreFramework&theme=radical&border_color=00FFFF&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF&bg_color=0D1117" alt="RTXCoreFramework"/>
+  </a>
+  <br>
+  <a href="https://github.com/PsProsen-Dev/wdm-website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PsProsen-Dev&repo=wdm-website&theme=radical&border_color=00FFFF&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF&bg_color=0D1117" alt="wdm-website"/>
+  </a>
+  <a href="https://github.com/PsProsen-Dev/India-Job-Market-Visualizer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PsProsen-Dev&repo=India-Job-Market-Visualizer&theme=radical&border_color=00FFFF&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF&bg_color=0D1117" alt="India-Job-Market-Visualizer"/>
+  </a>
 </div>
+
+<p align="center"><i>Full mission log: <a href="https://github.com/PsProsen-Dev?tab=repositories">33 repositories &#8594;</a></i></p>
 
 <br>
 
