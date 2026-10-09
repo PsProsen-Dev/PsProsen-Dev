@@ -32,6 +32,45 @@
 
 <br>
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- WE DIGITAL MITRA — FLAGSHIP VENTURE SPOTLIGHT -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3kwNzA0ZjZsMjFpNXg0c2Vud3pxcTd0ZGJxb3BkenlsYjYxN3YxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jSKBmKkvo2dPQQtsR1/giphy.gif" width="40" height="40">
+    <span style="color:#F29318"> WE DIGITAL MITRA </span>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3kwNzA0ZjZsMjFpNXg0c2Vud3pxcTd0ZGJxb3BkenlsYjYxN3YxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jSKBmKkvo2dPQQtsR1/giphy.gif" width="40" height="40">
+  </h2>
+
+  <p><i>"Your Growth Our Responsibility"</i></p>
+
+  <p>My flagship venture — an <b>AI-powered digital marketing + automation agency</b>.<br>
+  1 human. 100% AI-operated. Serving local businesses across <b>8 districts of North Bengal</b> since Jan 2024.</p>
+
+  <p>
+    <img src="https://img.shields.io/badge/Web%20Development-0F2D52?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/AI%20Automation-F29318?style=for-the-badge&logo=openai&logoColor=black" />
+    <img src="https://img.shields.io/badge/WhatsApp%20Automation-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/Lead--Gen%20Pipelines-00FFFF?style=for-the-badge&logo=salesforce&logoColor=black" />
+    <img src="https://img.shields.io/badge/Digital%20Marketing-FF00FF?style=for-the-badge&logo=meta&logoColor=black" />
+    <img src="https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  </p>
+
+  <p>
+    <a href="https://wedigitalmitra.com" target="_blank"><img src="https://img.shields.io/badge/WEBSITE-wedigitalmitra.com-F29318?style=for-the-badge&logo=googlechrome&logoColor=black" alt="WDM Website"/></a>
+    <a href="https://github.com/WeDigitalMitra" target="_blank"><img src="https://img.shields.io/badge/GitHub-WeDigitalMitra-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="WDM GitHub Org"/></a>
+  </p>
+
+  <h3>🚀 Have a project in mind? <a href="https://wedigitalmitra.com" target="_blank">Let's build your growth engine →</a></h3>
+</div>
+
+<br>
+
+<!-- HOLOGRAPHIC SEPARATOR -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2" width="100%">
+
+<br>
+
 <!-- NEURAL INTERFACE SECTION WITH PULSE ANIMATION -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ltajlubDR1bXEzYW10ajkxdWp1ODBvZjY1d2g5MWM3ZHoxamgwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="35" height="35">
@@ -43,7 +82,7 @@
 <table align="center" width="100%">
   <tr>
     <td width="60%" valign="top">
-      <p>Welcome to my quantum grid! I'm <b>Ps Prosen</b> – a self-evolved coder, AI trailblazer, and digital marketing visionary from Panbari, Jalpaiguri, WB, India.</p>
+      <p>Welcome to my quantum grid! I'm <b>Prosen</b> – a self-evolved coder, AI trailblazer, and digital marketing visionary from Panbari, Jalpaiguri, WB, India.</p>
       <p>As the architect behind <b>We Digital Mitra</b>, I'm engineering a hyper-advanced digital ecosystem designed to revolutionize the online multiverse.</p>
       <p>Think of me as a cybernetic Tony Stark – fusing code, innovation, and strategy into a single unstoppable force that's redefining digital frontiers!</p>
       <h4>⚡ CORE SIGNATURES</h4>
@@ -152,7 +191,7 @@
   <br>
 
   <h3 style="color:#00FFFF;">📡 NEURAL LINK ESTABLISHED...</h3>
-  <p><i>"The Future isn't Coming – I'm Coding it Now!"</i> – Ps Prosen</p>
+  <p><i>"The Future isn't Coming – I'm Coding it Now!"</i> – Prosen</p>
   <h2>Visit my digital command center → <a href="https://psprosen.me" target="_blank">psprosen.me</a></h2>
 </div>
 
