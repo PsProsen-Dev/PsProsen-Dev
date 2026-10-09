@@ -192,7 +192,7 @@
 
   <h3 style="color:#00FFFF;">📡 NEURAL LINK ESTABLISHED...</h3>
   <p><i>"The Future isn't Coming – I'm Coding it Now!"</i> – Prosen</p>
-  <h2>Visit my digital command center → <a href="https://psprosen.me" target="_blank">psprosen.me</a></h2>
+  <h2>Visit my digital command center → <a href="https://prosen.wedigitalmitra.com" target="_blank">prosen.wedigitalmitra.com</a></h2>
 </div>
 
 <!-- DYNAMIC GRADIENT FOOTER WAVE -->
